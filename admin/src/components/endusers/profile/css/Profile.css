@@ -1,0 +1,487 @@
+.text-theme{
+    color: #025d8c;
+}
+.profile-info .card-profile {
+    margin-top: 30px;
+    text-align: center;
+}
+.profile-info .card {
+    border: 0;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 6px;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.14);
+}
+.profile-info .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+}
+.profile-info .card {
+    font-size: .875rem;
+}
+.card-profile .card-avatar {
+    margin: -50px auto 0;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 0;
+    box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+    max-width: 130px;
+    /* max-height: 130px; */
+    height:130px;
+}
+.card-profile-edit-col .card-avatar {
+    margin: -13px auto 20px;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 0;
+    box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+    max-width: 120px;
+    max-height: 120px;
+}
+.cam-icon-div {
+    right: 42%;
+    background: white;
+    width: 40px;
+    align-items: center;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #2b969d;
+    text-align: center;
+    position: absolute;
+    top: 62px;
+}
+.cam-icon-div i.fas.fa-camera {
+    padding: 10px;
+    color: #2b969d;
+}
+.card-profile .card-avatar img {
+    width: 100%;
+    height: 100% !important;
+}
+.eu-edit-profile .card-profile-edit-col .card-avatar img {
+    width: 100%;
+    height: 100% !important;
+}
+.profile-info img {
+    vertical-align: middle;
+    border-style: none;
+}
+.card-profile .card-avatar+.card-body {
+    /* margin-top: 15px; */
+}
+.card-profile .card .card-body {
+    padding: .9375rem 20px;
+    position: relative;
+}
+.card-profile .card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.card-profile .card .card-category {
+    margin-top: 10px;
+}
+.text-gray {
+    color: #999!important;
+}
+.profile-info .card-profile h6 {
+    font-size: .75rem;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.profile-info .card-profile hr {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+.profile-info .card-profile .card .card-title {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.profile-info .card-profile .card-title, .profile-info .card-profile .card-title a, .footer-big h4, .footer-big h4 a, .footer-big h5, .footer-big h5 a, .footer-brand, .footer-brand a, .info-title, .info-title a, .media .media-heading, .media .media-heading a, .title, .title a {
+    color: #01a4a2;
+    text-decoration: none;
+}
+.profile-info .card-profile .card-title {
+    margin-bottom: .75rem;
+}
+.profile-info .card-profile .h4, .profile-info .card-profile h4 {
+    font-size: 1.125rem;
+    line-height: 1.4em;
+    font-weight: 300;
+}
+.profile-info .card-profile .dob.h4, .profile-info .card-profile h4 {
+    font-size: 0.9rem;
+    line-height: 1.4em;
+    font-weight: 400;
+    color: #999;
+}
+.card-description, .description, .footer-big p {
+    color: #999;
+}
+.edit-profile-form .btn.btn-round {
+    border-radius: 30px;
+}
+.edit-profile-form .btn.btn-danger, .mat-button.btn.btn-danger, .mat-raised-button.btn.btn-danger, .mat-raised-button.btn:not([class*=mat-elevation-z]).btn-danger {
+    color: #fff;
+    background-color: #01a4a2;
+    border-color: #01a4a2;
+    box-shadow: 0 2px 2px 0 rgba(244,67,54,.14), 0 3px 1px -2px rgba(244,67,54,.2), 0 1px 5px 0 rgba(244,67,54,.12);
+}
+.edit-profile-form .btn {
+    position: relative;
+    padding: 12px 30px;
+    margin: .3125rem 1px;
+    min-width: auto;
+    font-size: .75rem;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    letter-spacing: 0;
+    cursor: pointer;
+    border: 0;
+    border-radius: .2rem;
+    outline: 0;
+    transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1);
+    will-change: box-shadow,transform;
+}
+.verify-div {
+    display: block;
+}
+.verify-div h6 {
+    float: left;
+}
+.verify-div span {
+    float: right;
+}
+.profile-info .card-profile p.card-text.user-address{
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 1.7;
+}
+.profile-info .card-profile .card-title.route-opt {
+    text-align: left;
+}
+/* ======================== profile col-8 ========================= */
+.edit-profile-form .form-control-alternative {
+    transition: box-shadow .15s ease;
+    border: 0 !important;
+    box-shadow: 0 1px 3px rgba(50,50,93,.15), 0 1px 0 rgba(0,0,0,.02);
+}
+.custom-select.is-valid, .form-control.is-valid, .was-validated .custom-select:valid, .was-validated .form-control:valid {
+    border:0 !important;
+    transition: box-shadow .15s ease;
+    border: 0 !important;
+    box-shadow: 0 1px 3px rgba(50,50,93,.15), 0 1px 0 rgba(0,0,0,.02);
+}
+/* edit profile card header */
+.edit-profile-info .card [class*=card-header-]:not(.card-header-icon):not(.card-header-text):not(.card-header-image),
+.profile-add-id-proof .card [class*=card-header-]:not(.card-header-icon):not(.card-header-text):not(.card-header-image)
+ {
+    border-radius: 3px;
+    margin-top: -20px;
+    padding: 15px;
+    display: inline-flex;
+}
+.edit-profile-info .card .card-header-danger .card-icon, .card .card-header-danger .card-text, .card .card-header-danger:not(.card-header-icon):not(.card-header-text) {
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,.14), 0 7px 10px -5px rgb(96, 197, 199);
+}
+.edit-profile-info .card .card-header-danger:not(.card-header-icon):not(.card-header-text),
+.profile-add-id-proof .card .card-header-danger:not(.card-header-icon):not(.card-header-text),
+.compare-host .card .card-header-danger:not(.card-header-icon):not(.card-header-text) {
+    background: linear-gradient(60deg,#01a2a1,#02889a);
+}
+.edit-profile-info .card [class*=card-header-],
+.profile-add-id-proof .card [class*=card-header-],
+.compare-host .card [class*=card-header-]{
+    margin: 0 15px;
+    /* padding: 0; */
+    position: relative;
+}
+.edit-profile-info .card .card-header,
+.profile-add-id-proof .card .card-header, 
+.compare-host .card .card-header {
+    border-bottom: none;
+    z-index: 3!important
+}
+
+.edit-profile-info .card [class*=card-header-],
+.profile-add-id-proof .card [class*=card-header-],
+.compare-host .card [class*=card-header-]
+ {
+    color: #ffffff;
+}
+.edit-profile-info .card .card-header .card-title,
+.profile-add-id-proof .card .card-header .card-title,
+.compare-host .card .card-header .card-title {
+    margin-bottom: 3px;
+      
+}
+.edit-profile-info .card .card-header h4.card-title,
+.profile-add-id-proof .card .card-header h4.card-title,
+.compare-host .card .card-header h4.card-title {
+    font-size: 1.125rem;
+    line-height: 1.4em;
+    font-weight: 400;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
+.edit-profile-info .card .card-title,
+.profile-add-id-proof .card .card-title,
+.compare-host .card .card-title {
+    margin-top: 0;
+}
+.edit-profile-info .card,
+.profile-add-id-proof .card,{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 6px;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.14);
+}
+.profile-add-id-proof .card {
+    margin-top: 30px !important;
+}
+.edit-profile-info .card .card-body {
+    padding:2rem;
+}
+/* ========================= preference ================================== */
+
+.mandatory {
+    color: red;
+}
+
+/* ========================= support ========================================= */
+.textarea, .card-each-list {
+    border-radius: 4px !important;
+    border: 1px solid #dee2e6 !important;
+}
+.card-list {
+    padding-left:1px !important;
+    padding-right:1px !important;
+}
+.card-each-list {
+    border-radius: 4px !important;
+    border: 1px solid #dee2e6 !important;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+    margin-top: 8px;
+}
+.tab-header-bold {
+    font-weight: bold;
+  }
+.idProof-profile .nav-tabs .nav-item, .eu-support .nav-tabs .nav-item {
+    background: transparent !important;
+    color: #555555 !important;
+    font-family: 'Lato', sans-serif;
+}
+.idProof-profile .nav-tabs .nav-link:focus, .idProof-profile .nav-tabs .nav-link:hover 
+.eu-support .nav-tabs .nav-link:focus, .eu-support .nav-tabs .nav-link:hover {
+    background: aliceblue !important;
+    border:1px solid transparent;
+}
+.idProof-profile .nav-tabs a.tab-header-blue {
+    color: #555555 !important;
+}
+.idProof-profile .nav-tabs a.tab-header-blue.active {
+    color: #2a959e !important;
+    border-bottom: 2px solid #2e9c9f;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    background: transparent !important;
+  }
+.idProof-profile .custom-file, .id-proof-edit .custom-file {
+    margin-bottom: 20px;
+}
+.edit-profile-info .input-error-icon {
+    position: absolute;
+    top: 14px;
+    right: 25px;
+}
+.edit-profile-form.profile-change-password .input-error-icon {
+    position: absolute;
+    top: 33px;
+    right: 10px;
+}
+.edit-profile-info .input-error-icon-address {
+    position: absolute;
+    top: 44px;
+    right: 20px;
+}
+.errorMessage {
+    font-size: 12px;
+    color: red;
+    font-weight: 400;
+}
+.profile-dob {
+    height: calc(1.5em + 1.25rem + 5px);
+    font-size: .875rem;
+    border-radius: .25rem;
+    color: #495057;
+}
+.profile-info .card-profile h6.email {
+    text-transform: lowercase;
+}
+.active-profile-heading {
+    color: red !important;
+}
+.active-profile-heading::after {
+    content:'\2192';
+    font-size: 30px;
+    float: right;
+    margin-top: -5px;
+}
+/* id proof pagination */
+.profile-add-id-proof .page-item .page-link {
+    margin: 0px;
+    padding: 0px;
+}
+.profile-add-id-proof ul.pagination li {
+    padding: 0px;
+    margin:6px;
+}
+.ticket-msg {
+    color: #333;
+    font-size: 14px;
+    margin-bottom: 5px;
+
+}
+.ticket-actions .media-object i {
+    font-size: 12px;
+}
+.ticket-actions .avatar {
+    font-size: 1rem;
+    display: inline-flex;
+    width: 24px;
+    height: 24px;
+    color: #fff;
+    border-radius: .375rem;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+}
+.ticket-view small {
+    font-size: 90%;
+    color: #575858;
+}
+.ticket-view h5.text-sm {
+    color: black;
+}
+.ticket-view .ticket-msg {
+    color: #5d5b5b;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.react-datepicker__input-container .enableElement.disableElement {
+	background: #eee !important;
+}
+.Profile-page-wrapper .react-datepicker-wrapper .react-datepicker__input-container input {
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+	border-radius: 4px;
+	font-size: .875rem;
+    height: calc(1em + 1rem + 5px);
+    margin-top: 0px;
+    padding-left: 9px;
+}
+.Profile-page-wrapper input[type=text], 
+.Profile-page-wrapper .form-control {
+    font-family: 'Montserrat', sans-serif;
+}
+.Profile-page-wrapper .form-control{
+    padding: 0.3rem 0.45rem;
+}
+.select-label {
+    color:#adb8c5;
+}
+.edit-profile-info .btn-text-white, .support-edit .btn-text-white, .btn-text-white {
+    font-weight: 700 !important;
+    color: white !important;
+    text-transform: capitalize !important;
+    font-family: 'Montserrat', sans-serif;
+}
+.edit-profile-form select.form-control,
+.edit-profile-form input:not([type]), 
+.edit-profile-form input[type=text], 
+.edit-profile-form input[type=date], 
+.edit-profile-form input[type=datetime-local], 
+.edit-profile-form input[type=number], 
+.edit-profile-form input[type=tel], 
+.edit-profile-form input[type=time], 
+.edit-profile-form input[type=url], 
+.edit-profile-form input[type=email], 
+.edit-profile-form input[type=search], 
+.edit-profile-form input[type=password], 
+.edit-profile-form textarea {
+    font-family: 'Montserrat', sans-serif;
+}
+.edit-profile-info.preference .col-form-label {
+    margin-top: -5px;
+}
+.edit-profile-info .input-error-icon-cp {
+    position: absolute;
+    top: 33px;
+    right: -25px;
+}
+.input-error-icon-cpn {
+    position: absolute;
+    top: 33px;
+    right: -25px;
+}
+.eu-support .nav-tabs a.tab-header-blue.active {
+    color: #2a959e !important;
+    border-bottom: 2px solid #2e9c9f;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    background: transparent !important;
+}
+.idProof-profile a:not([href]):not([tabindex]) {
+    color: #555555;
+}
+.edit-profile-form h4, .edit-profile-form h5, .edit-profile-form .h4, .edit-profile-form .card-title, .edit-profile-form label, .edit-profile-form .form-control
+.edit-profile-form .text-sm, .ticket-msg {
+    font-family: 'Montserrat', sans-serif;
+}
+.edit-profile-form input[type=text],
+.edit-profile-form input[type=number],
+.edit-profile-form h5.text-sm,
+.create-id-proof select.form-control,
+.create-id-proof input[type=text],
+.create-id-proof input[type=number],
+.no-data p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.eu-support-search {
+    margin-bottom: -30px;
+}
+.text-green {
+    color: #4da424!important;
+}
+.route-opt.active {
+    color: #222222 !important;
+}
+.id-proof-img-modal-div {
+    width:500px;
+    height: 350px;
+}
+.support-edit .card .card-header {
+    display: inline-block !important;
+    font-family: Lato;
+}

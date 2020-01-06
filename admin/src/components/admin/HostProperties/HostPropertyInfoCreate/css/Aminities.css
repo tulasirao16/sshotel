@@ -1,0 +1,52 @@
+
+.btn-actions .table-action-view {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #11cdef !important;
+}
+.btn-actions .table-action-edit {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #30a0a2 !important;
+}
+.aminities-toggle-div {
+    position: absolute;
+    right: 15px;
+    bottom: 0px;
+}
+.aminities .card-stats .card-body .numbers .card-category {
+    color: #035e8c;
+    font-size: 15px;
+    line-height: 1.4em;
+}
+.aminities-view .card-header h5.card-title {
+    color: #31a2a2;
+    font-size: 20px;
+}
+.aminities-view .card-header .table-user img.avatar {
+    width: 38px;
+    height: 38px;
+}
+.aminities .card-header form .form-group.serach-tab {
+border-bottom: 1px solid lightgray;
+border-radius:0;
+}
+/* .dialog {
+    background: tomato;
+    width: 150px;
+    height: 150px;
+    margin: auto; 
+  
+  }
+  
+  .dialog button {
+    display : inline-block;
+    text-align: center;
+    margin: 0 10px; 
+  } */
+
+  .serach-tab{    
+    background-color: #efefef;
+    padding: 0 10px;
+    border-bottom: none;
+  }

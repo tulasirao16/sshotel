@@ -1,0 +1,272 @@
+.text-theme{
+    color: #025d8c;
+}
+.profile-info .card-profile {
+    margin-top: 30px;
+    text-align: center;
+}
+.profile-info .card {
+    border: 0;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 6px;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.14);
+}
+.profile-info .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+}
+.profile-info .card {
+    font-size: .875rem;
+}
+.card-profile .card-avatar {
+    margin: -50px auto 0;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 0;
+    box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+    max-width: 130px;
+    max-height: 130px;
+}
+.card-profile .card-avatar img {
+    width: 100%;
+    height: auto;
+}
+.profile-info img {
+    vertical-align: middle;
+    border-style: none;
+}
+.card-profile .card-avatar+.card-body {
+    /* margin-top: 15px; */
+}
+.card-profile .card .card-body {
+    padding: .9375rem 20px;
+    position: relative;
+}
+.card-profile .card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.card-profile .card .card-category {
+    margin-top: 10px;
+}
+.text-gray {
+    color: #999!important;
+}
+.profile-info .card-profile h6 {
+    font-size: .75rem;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.profile-info .card-profile hr {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+.profile-info .card-profile .card .card-title {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.profile-info .card-profile .card-title, .profile-info .card-profile .card-title a, .footer-big h4, .footer-big h4 a, .footer-big h5, .footer-big h5 a, .footer-brand, .footer-brand a, .info-title, .info-title a, .media .media-heading, .media .media-heading a, .title, .title a {
+    color: #01a4a2;
+    text-decoration: none;
+}
+.profile-info .card-profile .card-title {
+    margin-bottom: .75rem;
+}
+.profile-info .card-profile .h4, .profile-info .card-profile h4 {
+    font-size: 1.125rem;
+    line-height: 1.4em;
+    font-weight: 300;
+}
+.profile-info .card-profile .dob.h4, .profile-info .card-profile h4 {
+    font-size: 0.9rem;
+    line-height: 1.4em;
+    font-weight: 400;
+    color: #999;
+}
+.card-description, .description, .footer-big p {
+    color: #999;
+}
+
+.verify-div {
+    display: block;
+}
+.verify-div h6 {
+    float: left;
+}
+.verify-div span {
+    float: right;
+}
+.profile-info .card-profile p.card-text.user-address{
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 1.7;
+}
+.profile-info .card-profile .card-title.route-opt {
+    text-align: left;
+}
+/* ======================== profile col-8 ========================= */
+.edit-profile-form .form-control-alternative {
+    transition: box-shadow .15s ease;
+    border: 0 !important;
+    box-shadow: 0 1px 3px rgba(50,50,93,.15), 0 1px 0 rgba(0,0,0,.02);
+}
+.custom-select.is-valid, .form-control.is-valid, .was-validated .custom-select:valid, .was-validated .form-control:valid {
+    border:0 !important;
+    transition: box-shadow .15s ease;
+    border: 0 !important;
+    box-shadow: 0 1px 3px rgba(50,50,93,.15), 0 1px 0 rgba(0,0,0,.02);
+}
+/* edit profile card header */
+.edit-profile-info .card [class*=card-header-]:not(.card-header-icon):not(.card-header-text):not(.card-header-image) {
+    border-radius: 3px;
+    margin-top: -20px;
+    padding: 15px;
+}
+.edit-profile-info .card .card-header-danger .card-icon, .card .card-header-danger .card-text, .card .card-header-danger:not(.card-header-icon):not(.card-header-text) {
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,.14), 0 7px 10px -5px rgb(96, 197, 199);
+}
+.edit-profile-info .card .card-header-danger:not(.card-header-icon):not(.card-header-text) {
+    background: linear-gradient(60deg,#01a2a1,#02889a);
+}
+.edit-profile-info .card [class*=card-header-] {
+    margin: 0 15px;
+    /* padding: 0; */
+    position: relative;
+}
+.edit-profile-info .card .card-header {
+    border-bottom: none;
+    z-index: 3!important
+}
+
+.edit-profile-info .card [class*=card-header-] {
+    color: #ffffff;
+}
+.edit-profile-info .card .card-header .card-title {
+    margin-bottom: 3px;
+      
+}
+.edit-profile-info .card .card-header h4.card-title {
+    font-size: 1.125rem;
+    line-height: 1.4em;
+    font-weight: 400;
+    color: #ffffff;
+}
+.edit-profile-info .card .card-title {
+    margin-top: 0;
+}
+.edit-profile-info .card{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 6px;
+    color: #333;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.14);
+}
+.edit-profile-info .card .card-body {
+    padding:2rem;
+}
+/* ========================= preference ================================== */
+
+.mandatory {
+    color: red;
+}
+
+/* ========================= support ========================================= */
+.textarea, .card-each-list {
+    border-radius: 4px !important;
+    border: 1px solid #dee2e6 !important;
+}
+.card-list {
+    padding-left:1px !important;
+    padding-right:1px !important;
+}
+.card-each-list {
+    border-radius: 4px !important;
+    border: 1px solid #dee2e6 !important;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+}
+/* =============================== compare ======================= */
+
+/* table,
+thead,
+tr,
+tbody,
+th,
+td {
+  text-align: center;
+ 
+} */
+.table td, .table th {
+    vertical-align: middle !important;
+}
+.compare-host .compare-img img {
+    width: 50px;
+}
+.compare-host .btn.btn-round {
+    border-radius: 30px;
+}
+.compare-host .btn.btn-danger, .mat-button.btn.btn-danger, .mat-raised-button.btn.btn-danger, .mat-raised-button.btn:not([class*=mat-elevation-z]).btn-danger {
+    color: #fff;
+    background-color: #01a4a2;
+    border-color: #01a4a2;
+    box-shadow: 0 2px 2px 0 rgba(244,67,54,.14), 0 3px 1px -2px rgba(244,67,54,.2), 0 1px 5px 0 rgba(244,67,54,.12);
+}
+.compare-host .btn {
+    position: relative;
+    padding: 12px 30px;
+    margin: .3125rem 1px;
+    min-width: auto;
+    font-size: .75rem;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    letter-spacing: 0;
+    cursor: pointer;
+    border: 0;
+    border-radius: .2rem;
+    outline: 0;
+    transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1);
+    will-change: box-shadow,transform;
+}
+.compare-host i.fas.fa-check {
+    font-size: 25px;
+    color: green;
+}
+.compare-host i.fas.fa-times-circle {
+    font-size: 25px;
+    color: red;
+}
+.compare-host .host-box {
+    border: 1px solid #a7e0e2;
+    border-radius: 4px;
+    margin-bottom: 3px;
+}
+.compare-host .close-host {
+    float: right;
+    padding-right: 6px;
+}
+.compare-host .close-host i.fas.fa-times {
+    color: #98dade;
+}
+.compare-host .card [class*=card-header-]:not(.card-header-icon):not(.card-header-text):not(.card-header-image) {
+    border-radius: 3px;
+    margin-top: -20px;
+    padding: 15px;
+}

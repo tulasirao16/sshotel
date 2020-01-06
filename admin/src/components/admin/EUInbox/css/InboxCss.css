@@ -1,0 +1,117 @@
+.eu-inbox .bg-gray {
+    background: #e6e6e4!important;
+    border-radius: 4px;
+}
+.main-content-inbox,
+.main-content-view-msg-eu,
+.main-content-send-msg-eu,
+.enduser .msg  {
+    font-family: 'Montserrat', sans-serif;
+}
+.eu-inbox .mail_list .list-group-item .msg {
+    margin-bottom: 0px;
+    font-size: 0.875em;
+    color: #939393;
+}
+.eu-inbox .mail_list .list-group-item {
+    padding:5px
+}
+.eu-inbox .avatar {
+    font-size: 0.875rem;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    margin-top: 3px;
+}
+.enduser input[type=text], .enduser textarea, .enduser .card-header h6, .enduser .media-heading a, .eu-font {
+    font-family: 'Montserrat', sans-serif;
+}
+.breadcrumb.eu.eu-font .breadcrumb-item {
+    font-family: 'Montserrat', sans-serif;
+}
+.modalOne p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: darkslategrey !important;
+}
+.modalOne .btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: '#ffffff'
+}
+.inbox-list-tab {
+    border-right: 1px solid lightgray;
+}
+.noOfLines{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.bg-eu {
+    background: #e5eef3;
+}
+.bg-sp {
+    /* background: #98ec8a; */
+    background: #e5eef3;
+}
+.bg-sp::before {
+    content: '';
+    border-right: 10px solid #e5eef3;
+    border-bottom: 10px solid transparent;
+    border-top: 10px solid #e5eef3;
+    border-left: 10px solid transparent;
+    position: absolute;
+    top: 8px;
+    left: -4px;
+}
+.sp-Text-property-title {
+    color: #111111;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.eu-Text-message {
+    color: #555;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.sp-Text-message {
+   font-size: 0.875em;
+    color: #555;
+    font-family: 'Montserrat', sans-serif;
+}
+.eu-Text-property-title {
+    color: #111111;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+.bg-eu::after {
+    content: '';
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #e5eef3;
+    border-top: 10px solid transparent;
+    border-left: 10px solid #e5eef3;
+    position: absolute;
+    bottom: 8px;
+    right: -4px;
+}
+.row.justify-content-start.delete-selected {
+    position: relative;
+    opacity: 0.3;
+    background: rgba(0,0,0, .3);
+}
+.inbox-send-button {
+    padding: 0.8rem!important;
+}
+.eu-inbox .form-control.chat-textBox {
+    font-size: .875rem;
+    height: calc(1em + 1.7rem + 5px);
+}
+#messages-div-8 {
+    height: 450px !important;
+    overflow-y: scroll;
+}

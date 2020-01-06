@@ -1,0 +1,177 @@
+#footer {
+    /* background: #fcfcfc url(../../../../../assets/footer/bg04.jpg) 50% 50% no-repeat; */
+    /* background-image: url(../../../../../assets/footer/footer-london.jpg); */
+    background: linear-gradient(180deg,#9ed3cd,#31a3a3)!important;
+    background-size: cover;
+    font: 11px/14px "Open Sans", sans-serif;
+    color: #4e352a;
+    padding: 38px 0 32px;
+    display:block;
+}
+.wrapper {
+    position: relative;
+    margin: 0 auto;
+}
+@media (min-width: 1200px) {
+.subpage #content-area .m, .wrapper {
+    width: 1170px;
+   }
+}
+#footer #footer-menu {
+    overflow: hidden;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 0;
+}
+#footer #footer-menu li {
+    display: inline-block;
+    margin: 0 5px;
+}
+#footer #footer-menu li a {
+    font: 700 14px/20px "Open Sans", sans-serif;
+    /* color: #00b2aa; */
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 5px;
+}
+/* social icons */
+#footer #social-links {
+    overflow: hidden;
+    /* font-size: 0; */
+    text-align: center;
+    padding-top: 15px;
+}
+#footer #social-links a.facebook {
+    background-position: -531px 7px;
+}
+#footer #social-links a {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    /* background: #00b1aa; */
+    /* background: #025c8b; */
+    /* background: #00b1aa url(../../../../../assets/footer/sprite.svg) no-repeat 25px 25px; */
+    overflow: hidden;
+    margin: 0 3px;
+    padding: 5px;
+    transition: transform 0.2s linear;
+}
+#footer #social-links a:hover {
+    transform: translateY(-10px);
+}
+#footer #social-links a i {
+    color: #ffffff;
+}
+#footer #social-links a.instagram {
+    background-position: -530px -58px;
+}
+#footer #social-links a.youtube {
+    background-position: -590px -58px;
+}
+#footer #social-links a.tripadvisor {
+    background-position: -650px -57px;
+}
+/* ================= */
+.logo-container {
+    margin: 2px auto 0 auto;
+    text-align: center;
+    width: 400px;
+}
+#footer #tripadvisor {
+    color: #313131;
+    text-align: center;
+    width: 287px;
+    height: 30px;
+    margin: 2px auto 0 auto;
+    text-transform: uppercase;
+    display: inline-block;
+}
+#footer #tripadvisor>a.logo {
+    float: left;
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    margin-bottom: 8px;
+    text-indent: -99999px;
+    /* background: url(images/className.svg) -948px -54px no-repeat; */
+}
+
+#footer #tripadvisor a {
+    text-decoration: none;
+    position: relative;
+    color: #ffffff;
+    font-size: 18px;
+    transition: color 0.4s ease-out, background-color 0.4s ease-out;
+}
+#footer #tripadvisor p {
+    line-height: 16px;
+    width: 210px;
+    /* float: left; */
+    display: inline;
+}
+#footer #tripadvisor {
+    color: #313131;
+    text-align: center;
+    text-transform: uppercase;
+}
+#footer #tripadvisor span {
+    /* color: #00b1aa; */
+    width: 229px;
+    color: #044465;
+}
+/* ============================ */
+.logo-container .conde-naste {
+    /* background: url(images/conde-naste.png) no-repeat; */
+    background-size: cover;
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+}
+/* ========================= */
+#footer .footer-info {
+    clear: both;
+    padding-top: 25px;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+    font: 13px/24px "Open Sans", sans-serif;
+    color: #4e352a;
+}
+#footer p {
+    color: rgb(255, 255, 255);
+    font-size: .875em;
+}
+#footer .contacts .email a {
+    text-decoration: none;
+    color: #025f8d;
+    text-transform: lowercase;
+}
+.logo {
+    height:20px;
+}
+/* prefooter css */
+.footer-topper {
+    height: 22rem;
+    background-image: url(../../../../../assets/footer/footer-london.jpg);
+    background-position: bottom,top;
+    background-repeat: no-repeat,no-repeat;
+    background-size: 100%;
+    margin-bottom: -10px;
+}
+#footer #social-links a.pinterest-i {
+    background: #e05047;
+}
+#footer #social-links a.twitter-i {
+    background: #1da1d1;
+}
+#footer #social-links a.youtube-i {
+    background: #c4333b;
+}
+#footer #social-links a.facebook-i {
+    background: #025c8b;
+}
+#footer #social-links a.linkedin-i {
+    background: #0176b6;
+}

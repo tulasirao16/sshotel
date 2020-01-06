@@ -1,0 +1,42 @@
+.body-main {
+    background-color: #eaf5ff;
+}
+
+.footer-main {
+    padding: 20px 0;
+    background: #eaf5ff;
+}
+
+.home-header{
+    height:370px;
+}
+
+.card-profile-upload {
+    background-color: #fff;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: 1px solid #ccc;
+    margin:0 auto;
+}
+
+.cam-icon {
+    font-size: 50px;
+    padding: 34px;
+    color: #ccc;
+}
+
+.card-success {
+    background-color: #fff;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: 3px solid #a5dc86;
+    margin:0 auto;
+}
+
+.success-icon{
+    color: #a5dc86;
+    font-size:50px;
+    padding:34px;
+}

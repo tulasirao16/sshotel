@@ -1,0 +1,226 @@
+{
+    "auditActionTypes": {
+        "create": "Create",
+        "update": "Update",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "close": "Close"
+    },
+    "userStatuses": {
+        "active": "Active",
+        "blocked": "Blocked",
+        "inactive": "Inactive"
+    },
+    "userRoles": {
+        "admin": "Admin",
+        "superAdmin": "Super Admin",
+        "serviceProvider": "Service Provider",
+        "serviceProviderResource": "Service Provider Resource",
+        "customer": "Customer"
+    },
+    "countryCodes": [
+        {
+            "code": "IND",
+            "name": "India",
+            "value": "+91"
+        },
+        {
+            "code": "USA",
+            "name": "United States of America",
+            "value": "+1"
+        }
+    ],
+    "languages": [
+        {
+            "code": "EN",
+            "name": "English",
+            "value": "en"
+        },
+        {
+            "code": "EN-GB",
+            "name": "English (United Kingdom)",
+            "value": "en-gb"
+        },
+        {
+            "code": "EN-US",
+            "name": "English (United States)",
+            "value": "en-us"
+        },
+        {
+            "code": "FR",
+            "name": "French",
+            "value": "fr"
+        },
+        {
+            "code": "HI",
+            "name": "Hindi",
+            "value": "hi"
+        },
+        {
+            "code": "TE",
+            "name": "Telugu",
+            "value": "te"
+        }
+    ],
+    "timeZones": [
+        {
+            "code": "ADT",
+            "name": "Atlantic Daylight Time (UTC-03:00Hrs)",
+            "value": "-03:00"
+        },
+        {
+            "code": "AKDT",
+            "name": "Alaska Daylight Time (UTC-08:00Hrs)",
+            "value": "-08:00"
+        },
+        {
+            "code": "AKST",
+            "name": "Alaska Standard Time (UTC-09:00Hrs)",
+            "value": "-09:00"
+        },
+        {
+            "code": "AST",
+            "name": "Atlantic Standard Time (UTC-04:00Hrs)",
+            "value": "-04:00"
+        },
+        {
+            "code": "CDT",
+            "name": "Central Daylight Time (UTC-05:00Hrs)",
+            "value": "-05:00"
+        },
+        {
+            "code": "CST",
+            "name": "Central Standard Time (UTC-06:00Hrs)",
+            "value": "-06:00"
+        },
+        {
+            "code": "EDT",
+            "name": "Eastern Daylight Time (UTC-04:00Hrs)",
+            "value": "-04:00"
+        },
+        {
+            "code": "EST",
+            "name": "Eastern Standard Time (UTC-05:00Hrs)",
+            "value": "-05:00"
+        },
+        {
+            "code": "HADT",
+            "name": "Hawaii-Aleutian Daylight Time (UTC-09:00Hrs)",
+            "value": "-09:00"
+        },
+        {
+            "code": "HAST",
+            "name": "Hawaii-Aleutian Standard Time (UTC-10:00Hrs)",
+            "value": "-10:00"
+        },
+        {
+            "code": "IST",
+            "name": "Indian Standard Time (UTC+05:30Hrs)",
+            "value": "+05:30"
+        },
+        {
+            "code": "MDT",
+            "name": "Mountain Daylight Time (UTC-06:00Hrs)",
+            "value": "-06:00"
+        },
+        {
+            "code": "MST",
+            "name": "Mountain Standard Time (UTC-07:00Hrs)",
+            "value": "-07:00"
+        },
+        {
+            "code": "PDT",
+            "name": "Pacific Daylight Time (UTC-07:00Hrs)",
+            "value": "-07:00"
+        },
+        {
+            "code": "PST",
+            "name": "Pacific Standard Time (UTC-08:00Hrs)",
+            "value": "-08:00"
+        }
+    ],
+    "currencies": [
+        {
+            "code": "INR",
+            "name": "Indian Rupee(₹)",
+            "value": "INR"
+        },
+        {
+            "code": "USD",
+            "name": "United States Dollar($)",
+            "value": "USD"
+        }
+    ],
+    "currencyFormats": [
+        {
+            "code": "#,###.##",
+            "name": "#,###.##",
+            "value": "#,###.##"
+        },
+        {
+            "code": "####.##",
+            "name": "####.##",
+            "value": "####.##"
+        },
+        {
+            "code": "#, ###.##",
+            "name": "#, ###.##",
+            "value": "#, ###.##"
+        }
+    ],
+    "dateFormats": [
+        {
+            "code": "YYYY-MM-DD",
+            "name": "YYYY-MM-DD",
+            "value": "YYYY-MM-DD"
+        },
+        {
+            "code": "DD-MM-YYYY",
+            "name": "DD-MM-YYYY",
+            "value": "DD-MM-YYYY"
+        },
+        {
+            "code": "MMM DD, YYYY",
+            "name": "MMM DD, YYYY",
+            "value": "MMM DD, YYYY"
+        },
+        {
+            "code": "MMM DD, YY",
+            "name": "MMM DD, YY",
+            "value": "MMM DD, YY"
+        },
+        {
+            "code": "MMMM DD, YYYY",
+            "name": "MMMM DD, YYYY",
+            "value": "MMMM DD, YYYY"
+        },
+        {
+            "code": "MMMM DD, YY",
+            "name": "MMMM DD, YY",
+            "value": "MMMM DD, YY"
+        }
+    ],
+    "rowsPerPage": [
+        {
+            "code": "10",
+            "name": "10",
+            "value": "10"
+        },
+        {
+            "code": "25",
+            "name": "25",
+            "value": "25"
+        },
+        {
+            "code": "50",
+            "name": "50",
+            "value": "50"
+        },
+        {
+            "code": "100",
+            "name": "100",
+            "value": "100"
+        }
+    ]
+}

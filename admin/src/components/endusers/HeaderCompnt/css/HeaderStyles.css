@@ -1,0 +1,112 @@
+.hotel-list-header .hotel-list-navbar .navbar-nav .nav-link {
+    color: rgb(102, 104, 111);
+    font-size: 13px;
+    font-weight: 500;
+}
+.hotel-list-header .navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    width: 65vw;
+    justify-content: flex-end;
+}
+.hotel-list-header .navbar {
+    padding: 0.5rem 1rem 0rem 1rem;
+}
+.hotel-list-header .navbar-horizontal.navbar-transparent {
+    position:fixed;
+}
+.eu-profile-container .navbar-horizontal.navbar-transparent {
+    position:relative;
+}
+.hotel-list-header .nav-item.dropdown {
+    background: #eeeeee;
+    color: black;
+}
+.drawerTogglebtn {
+    margin-left: 23px;
+    margin-top: 7px;
+    background-color: transparent;
+    padding: 0px;
+    font-size: 25px;
+}
+.eu-header .navbar-horizontal.navbar-transparent {
+    padding:0px;
+}
+.eu-bookingHistory .navbar-horizontal.navbar-transparent {
+    padding: 0.5rem 0rem !important;
+}
+.eu-header .navbar-horizontal .navbar-nav .nav-link {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.eu-header .navbar-horizontal .navbar-nav .nav-link {
+    font-size: .875rem!important;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-transform: capitalize;
+}
+.eu-header .navbar-horizontal .navbar-nav .nav-item.dropdown .nav-link {
+    padding-bottom: 0.6rem;
+    padding-top: 0.6rem;
+}
+.eu-header .navbar-horizontal .logo-text {
+    width: 166px;
+    height: auto;
+}
+.cozyspace .navbar-horizontal {
+    background: rgba(0,0,0, .5) !important;
+}
+.lan-icon{
+    width:25px;
+    margin-right: 8px;
+}
+@media only screen and (max-width: 375px) {
+    .eu-header .navbar-horizontal {
+        padding: 1rem !important;
+    }
+    .eu-header .drawerTogglebtn {
+        margin-left: -25px;
+        margin-top: 7px;
+        background-color: transparent;
+        padding: 0px;
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width: 414px) and (min-width: 375px) {
+    .eu-header .navbar-horizontal {
+        padding: 1rem !important;
+    }
+    .eu-header .drawerTogglebtn {
+        margin-left: -25px;
+        margin-top: 7px;
+        background-color: transparent;
+        padding: 0px;
+        font-size: 25px;
+    }
+}
+.eu-header {
+    font-family: 'Montserrat', sans-serif;
+}
+@media only screen and (min-width: 415px) and (max-width: 768px) {
+    .eu-header .navbar-horizontal {
+        padding: 1rem !important;
+    }
+    .eu-header .drawerTogglebtn {
+        margin-left: -200px;
+        margin-top: 7px;
+        background-color: transparent;
+        padding: 0px;
+        font-size: 25px;
+    }
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .eu-header .navbar-horizontal {
+        padding: 1rem !important;
+    }
+    .eu-header .drawerTogglebtn {
+        margin-left: -150px;
+        margin-top: 7px;
+        background-color: transparent;
+        padding: 0px;
+        font-size: 25px;
+    }
+}

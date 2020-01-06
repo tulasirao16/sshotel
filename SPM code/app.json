@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "AMtoPM Host",
+    "slug": "amtopmhost",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "./assets/"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ngstek.amtopmhost",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.619792160865-i2sbs72tce7g0uipefpsc9hqcj3jb2k8"
+        }
+      }
+    },
+    "android": {
+      "package": "com.ngstek.amtopmhost",
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyBQQ4EbROQI-a7uXd0w_QxHyrAHUQvNFF0",
+          "certificateHash": "10939703062EAC47BF0B490F3634CC3300827D37"
+        }
+      },
+      "versionCode": 6,
+      "permissions": [
+        "CAMERA",
+        "READ_INTERNAL_STORAGE",
+        "WRITE_INTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "READ_CONTACTS",
+        "WRITE_CONTACTS"
+      ]
+    }
+  }
+}

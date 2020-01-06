@@ -1,0 +1,92 @@
+.modal.fade.show#modal-verifyPhone {
+    background: rgba(0,0,0, 0.5) !important;
+}
+.signup-verify .form-group {
+    margin-bottom: 1rem;
+}
+.signup-verify .input-error-icon {
+    position: absolute;
+    top: 35px;
+    right: -25px;
+}
+.react-datepicker-wrapper, .react-datepicker__input-container {
+    width:100%;
+}
+.enduser-signup .react-datepicker-wrapper .react-datepicker__input-container input[type=text] {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    outline: 0;
+    -webkit-appearance: none;
+    line-height: 1.2142em;
+    padding: .8929em 1em;
+    /* font-size: 1em; */
+    background: #fff;
+    border: 1px solid #D4D4D4;
+    box-shadow: 0 0 0 0 transparent inset;
+    transition: color .1s ease, border-color .1s ease;
+    border-radius: 4px;
+}
+.enduser-signup .form-group {
+    margin-bottom: 0.5rem;
+    position: relative;
+}
+.enduser-signup .card-profile-upload {
+    background-color: #fff;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+.enduser-signup .cam-icon {
+    font-size: 50px;
+    padding: 45px;
+    color: #ccc;
+}
+.enduser-signup {
+    font-family: 'Montserrat', sans-serif;
+}
+.DayPickerInput input {
+	font-family: 'Lato';
+	border-radius: 4px;
+	font-size: .875rem;
+    height: calc(1em + 1rem + 5px);
+}
+.signup-card {
+	/* background-image: url(https://image.freepik.com/free-photo/close-up-female-s-hand-holding-wooden-house-model-keys-against-blurred-building-backdrop_23-2148038696.jpg); */
+    /* background-position: left;
+    background-size: 78%;
+    background-repeat: no-repeat; */
+    background-image: url(../../../../../assets/login/l6.jpg);
+    background-position: left;
+    background-size: contain;
+    /* background-size: 68%; */
+    background-repeat: no-repeat;
+}
+.signup-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 15px ;
+    right: -15px;
+    background: rgba(0,0,0,.5);
+}
+.card-login-form{
+	border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.card-login-form .btn-inner--text {
+	font-size: .825rem;
+}
+.eu-content {
+    margin-top: -15rem!important;
+}
+.eu-signup-container .eu-header .navbar-horizontal.navbar-transparent {
+    padding: 10px;
+}
+.signup-verify small {
+    font-size: 1rem!important;
+}
+.enduser input[type=text], .enduser textarea, .enduser .card-header h6, .enduser .media-heading a, .eu-font {
+    font-family: 'Montserrat', sans-serif;
+}

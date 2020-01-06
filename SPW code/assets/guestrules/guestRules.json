@@ -1,0 +1,30 @@
+[
+    {
+        "ruleOrder": "1",
+        "ruleId": "RULE-CH",
+        "ruleName": "Alcohol",
+        "ruleIconPath": "assets/guestrules/noalcohol.png",
+        "ruleStatus": "Inactive"
+    },
+    {
+        "ruleOrder": "2",
+        "ruleId": "RULE-PT",
+        "ruleName": "Pets",
+        "ruleIconPath": "assets/guestrules/dog.png",
+        "ruleStatus": "Inactive"
+    },
+    {
+        "ruleOrder": "3",
+        "ruleId": "RULE-SM",
+        "ruleName": "Smoking",
+        "ruleIconPath": "assets/guestrules/smokefree.jpg",
+        "ruleStatus": "Inactive"
+    },
+    {
+        "ruleOrder": "4",
+        "ruleId": "RULE-EP",
+        "ruleName": "Events and Parties",
+        "ruleIconPath": "assets/guestrules/partiesevents.png",
+        "ruleStatus": "Inactive"
+    }
+]

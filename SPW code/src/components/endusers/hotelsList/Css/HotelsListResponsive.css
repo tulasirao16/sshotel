@@ -1,0 +1,249 @@
+@media only screen and (max-width: 375px) {
+    .filters-page.pl-5 {
+        padding-left: 15px !important;
+        margin-bottom: 1rem!important;
+        margin-top: 1rem!important;
+    }
+    .mobile-py {
+        padding-top: 10px;
+        padding-bottom: 13px;
+    }
+    .filter-section .overlay-filter-guest-dropdown {
+        position: absolute;
+        left: 9% !important;
+        right: 6% !important;
+        top: 38% !important;
+        z-index: 99;
+    }
+    .filters-page .search-bg-div-filter {
+        width: 350px;
+    }
+    .filters-page .overlay-filter-search-bg {
+        position: absolute;
+        top: 141px;
+        left: 15px;
+        z-index: 999;
+    }
+    .ReactModal__Content.ReactModal__Content--after-open {
+        position: absolute;
+        top: 60%;
+        left: auto;
+        right: 13% !important;
+        bottom: auto;
+        border: 1px solid rgb(204, 204, 204);
+        background: rgb(255, 255, 255);
+        overflow: auto;
+        border-radius: 4px;
+        outline: none;
+        padding: 20px;
+        width: 86% !important;
+        height: 80vh;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+    .modal-filter-rooms-mobile {
+        padding-top: 1rem!important;
+    }
+    .hotels-page-hotel-list .switch-view-controller {
+        position: absolute;
+        bottom: 25px;
+        left: 40px;
+        z-index: 98;
+        height: 40px;
+        background: #025c8b;
+        border-radius: 20px;
+        border: 1px solid #025c8b;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, .2);
+        padding: 10px 10px;
+        list-style: none;
+    }
+    .cal-mobile .react-datepicker-popper {
+        position: absolute;
+        will-change: transform;
+        top: 0px;
+        left: -75px !important;
+        transform: translate3d(15px, 57px, 0px);
+    }
+    .overlay-map-data {
+        position: absolute;
+        left: 8%;
+        top: 60%;
+        z-index: 99;
+    }
+    .overlay-max-map-data {
+        position: absolute;
+        left: 11%;
+        top: 15%;
+        z-index: 99;
+    }
+}
+@media only screen and (min-width:376px) and (max-width: 414px) {
+    .filters-page.pl-5 {
+        padding-left: 15px !important;
+        margin-bottom: 1rem!important;
+        margin-top: 1rem!important;
+    }
+    .mobile-py {
+        padding-top: 10px;
+        padding-bottom: 13px;
+    }
+    .filter-section .overlay-filter-guest-dropdown {
+        position: absolute;
+        left: 9% !important;
+        right: 6% !important;
+        top: 38% !important;
+        z-index: 99;
+    }
+    .filters-page .search-bg-div-filter {
+        width: 350px;
+    }
+    .filters-page .overlay-filter-search-bg {
+        position: absolute;
+        top: 141px;
+        left: 15px;
+        z-index: 999;
+    }
+    .ReactModal__Content.ReactModal__Content--after-open {
+        position: absolute;
+        top: 60%;
+        left: auto;
+        right: 13% !important;
+        bottom: auto;
+        border: 1px solid rgb(204, 204, 204);
+        background: rgb(255, 255, 255);
+        overflow: auto;
+        border-radius: 4px;
+        outline: none;
+        padding: 20px;
+        width: 86% !important;
+        height: 80vh;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+    .modal-filter-rooms-mobile {
+        padding-top: 1rem!important;
+    }
+    .hotels-page-hotel-list .switch-view-controller {
+        position: absolute;
+        bottom: 25px;
+        left: 40px;
+        z-index: 98;
+        height: 40px;
+        background: #025c8b;
+        border-radius: 20px;
+        border: 1px solid #025c8b;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, .2);
+        padding: 10px 10px;
+        list-style: none;
+    }
+    .cal-mobile .react-datepicker-popper {
+        position: absolute;
+        will-change: transform;
+        top: 0px;
+        left: -55px !important;
+        transform: translate3d(15px, 57px, 0px);
+    }
+    .overlay-map-data {
+        position: absolute;
+        left: 8%;
+        top: 60%;
+        z-index: 99;
+    }
+    .overlay-max-map-data {
+        position: absolute;
+        left: 10%;
+        top: 15%;
+        z-index: 99;
+    }
+}
+@media only screen and (max-width: 325px) {
+    .mobile-py.m-320 {
+        max-width: 100% !important;
+        flex: 0 0 87%;
+        padding-top: 0px;
+    }
+    .mobile-py {
+        padding-top: 10px;
+        padding-bottom: 7px;
+    }
+    .overlay-map-data {
+        position: absolute;
+        left: 8%;
+        top: 76%;
+        z-index: 99;
+    }
+    .hotel-data-div {
+        width: 248px;
+        height: 150px;
+        background: #ffffff;
+        border-radius: 4px;
+        border: 1px solid #ddddde;
+        box-shadow: 0 8px 15px 0 rgba(0,0,0,.1);
+    }
+    .hotel-data-div .card-img {
+        width: 100%;
+        border-radius: calc(.375rem - 1px);
+        height: 150px !important;
+    }
+}
+@media only screen and (min-width:415px) and (max-width: 768px) {
+    .filter-section.bg-white {
+        margin-bottom: .5rem!important;
+    }
+    .container-fluid.filters-page {
+        padding-bottom: 1rem!important;
+    }
+    .overlay-map-data {
+        position: absolute;
+        left: 4%;
+        top: 35%;
+        z-index: 99;
+    }
+    .hotels-page-hotel-list .switch-view-controller {
+        position: absolute;
+        bottom: 25px;
+        z-index: 98;
+        height: 40px;
+        background: #025c8b;
+        border-radius: 20px;
+        border: 1px solid #025c8b;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, .2);
+        padding: 0 10px;
+        list-style: none;
+        -webkit-transition: left .15s ease-in;
+        -moz-transition: left .15s ease-in;
+        -o-transition: left .15s ease-in;
+        -ms-transition: left .15s ease-in;
+        transition: left .15s ease-in;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: row;
+        -webkit-flex-direction: row;
+        flex-direction: row;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+        transform: translateX(5%);
+    }
+    .ReactModal__Content.ReactModal__Content--after-open {
+        position: absolute;
+        top: 55%;
+        left: auto;
+        right: 13%;
+        bottom: auto;
+        border: 1px solid rgb(204, 204, 204);
+        background: rgb(255, 255, 255);
+        overflow: auto;
+        border-radius: 4px;
+        outline: none;
+        padding: 20px;
+        width: 86%;
+        height: 80vh;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+}
+

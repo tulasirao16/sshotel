@@ -1,0 +1,224 @@
+.mt-n5, .my-n5 {
+    margin-top: 1rem!important;
+}
+.search-bar {
+    border-radius: 10rem;
+    background: #fff;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.15);
+}
+.z-index-20 {
+    z-index: 20;
+}
+.position-relative {
+    position: relative !important;
+}
+.rounded {
+    border-radius: .4rem !important;
+}
+.search-bar .form-group {
+    position: relative;
+    margin-bottom: 0;
+}
+.align-items-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+
+.d-flex {
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+.search-bar .form-control {
+    height: calc(1em + 1rem + 2px);
+}
+.shadow-0 {
+    box-shadow: none !important;
+}
+
+.border-0 {
+    border: 0 !important;
+}
+
+.search-bar .form-group {
+    position: relative;
+    margin-bottom: 0;
+}
+.align-items-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+
+.d-flex {
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+.input-label-absolute {
+    position: relative;
+}
+.w-100 {
+    width: 100% !important;
+}
+.search-bar .input-label-absolute-right .label-absolute {
+    right: 0;
+}
+.label-absolute {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: #868e96;
+}
+.input-label-absolute-right label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+.sr-only {
+    border: 0;
+    clip: rect(0,0,0,0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+    width: 220px;
+}
+.form-inline .bootstrap-select, .form-horizontal .bootstrap-select, .form-group .bootstrap-select {
+    margin-bottom: 0;
+}
+.bootstrap-select:not(.input-group-btn), .bootstrap-select[class*="col-"] {
+    float: none;
+    display: inline-block;
+    margin-left: 0;
+}
+.bootstrap-select>select {
+    position: absolute !important;
+    /* bottom: 0; */
+    display: block !important;
+    /* width: 0.5px !important; */
+    height: 100% !important;
+    padding: 0 !important;
+    border: none;
+}
+select.selectpicker {
+    /* visibility: hidden; */
+    height: calc(1.6em + .75rem + 2px) !important;
+    background: #ffffff;
+}
+
+.bootstrap-select select {
+    word-wrap: normal;
+}
+.selectpicker option {
+    font-weight: normal;
+    display: block;
+    white-space: pre;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+.bootstrap-select>.dropdown-toggle.bs-placeholder, .bootstrap-select>.dropdown-toggle.bs-placeholder:hover, .bootstrap-select>.dropdown-toggle.bs-placeholder:focus, .bootstrap-select>.dropdown-toggle.bs-placeholder:active {
+    color: #999;
+}
+.bootstrap-select>.dropdown-toggle {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    text-align: right;
+    white-space: nowrap;
+}
+.bootstrap-select .dropdown-toggle .filter-option {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: inherit;
+    padding-right: inherit;
+    padding-bottom: inherit;
+    padding-left: inherit;
+    height: 100%;
+    width: 100%;
+    text-align: left;
+}
+.bootstrap-select .dropdown-toggle .filter-option-inner {
+    padding-right: inherit;
+}
+.bootstrap-select>.dropdown-toggle.bs-placeholder, .bootstrap-select>.dropdown-toggle.bs-placeholder:hover, .bootstrap-select>.dropdown-toggle.bs-placeholder:focus, .bootstrap-select>.dropdown-toggle.bs-placeholder:active {
+    color: #999;
+}
+.bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+    overflow: hidden;
+}
+.bootstrap-select .dropdown-menu {
+    min-width: 100%;
+    font-size: .9rem;
+    box-sizing: border-box;
+}
+.dropdown-menu {
+    box-shadow: 0 0rem 1.5rem rgba(0,0,0,0.175);
+}
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    /* left: 0; */
+    z-index: 1000;
+    display: none;
+    float: left;
+    /* min-width: 10rem; */
+    padding: .5rem 0;
+    margin: .125rem 0 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0 solid rgba(0,0,0,0.15);
+    border-radius: .4rem;
+}
+/* dates css */
+.container-fluid.sticky-filter label {
+margin-bottom: 0px;
+font-size: 12px;
+}
+.container-fluid.sticky-filter .fas.fa-long-arrow-alt-right {
+    position: absolute;
+    bottom: 20px
+}
+.focus {
+    outline: -webkit-focus-ring-color  0px;
+    outline-color: transparent !important;
+    outline-style: auto;
+    outline-width: 0px !important;
+}
+.sticky-search-btn {
+    padding: 0.79rem 1.25rem;
+    margin: 0px;
+    border-width: 1px;
+    background: transparent;
+    border: transparent;
+    color: gray;
+    box-shadow: 0 0px 0px rgba(50, 50, 93, .11), 0 1px 3px rgba(255, 255, 255, .1);
+}
+.sticky-search-btn:hover, .sticky-search-btn:active, .sticky-search-btn:focus {
+    color: #2f9fa0;
+    border-color: transparent;
+    background-color: transparent;
+    box-shadow: none;
+    transform: translateY(0px);
+}
+.react-datepicker-wrapper .react-datepicker__input-container input {
+    color: #353434;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: -5px;
+}
+.sticky-filter select.selectpicker {
+    color: #959595;
+}
+
+@media (min-width: 992px) {
+.p-lg-4 {
+    padding: 1.5rem !important;
+  }
+}

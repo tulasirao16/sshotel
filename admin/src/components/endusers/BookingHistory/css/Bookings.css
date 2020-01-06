@@ -1,0 +1,79 @@
+.bookings .tabs .nav.nav-tabs li.nav-item {
+    width: 15%;
+    text-align: center;
+}
+
+.main-content-create-review ,
+.bookings-home{
+    font-family: 'Montserrat', sans-serif;
+}
+.eu-bookings-table .table-actions .avatar {
+    font-size: 0.875em;
+    display: inline-flex;
+    width: 25px;
+    height: 25px;
+    color: #fff;
+    border-radius: .375rem;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+}
+/* confirm booking css */
+.confirm-booking-page .slider-wrapper.axis-horizontal {
+    height:60vh;
+}
+.confirm-booking-page .slider-wrapper ul .slide {
+    height: 60vh;
+}
+.confirm-booking-page .slide .slide-1 img {
+    height: 60vh;
+    width: 100% ;
+}
+.row-data-style {
+    justify-content: space-between;
+}
+.confirm-booking, .view-booking {
+    font-family: 'Montserrat', sans-serif;
+}
+.confirm-booking-page .carousel .thumbs-wrapper {
+    display: none;
+}
+.eu-bookings-list .nav-tabs a.tab-header-blue.active {
+    color: #2a959e !important;
+    border-bottom: 2px solid #2e9c9f !important;
+    border-top-width: 0px !important;
+    border-left-width: 0px !important;
+    border-right-width: 0px !important;
+    background: transparent !important;
+}
+.breadcrumb.eu .breadcrumb-item {
+    font-family: 'Montserrat', sans-serif;
+}
+.enduser small {
+    font-size: .87em !important;
+}
+.enduser .card-footer.hotelDetails {
+    background: aliceblue;
+    border: 2px solid #31a2a2;
+    border-radius: 10px;
+}
+.pagination {
+    display: inline-flex;
+}
+.modalOne p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: darkslategrey !important;
+}
+.modalOne .btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: '#ffffff'
+}
+.enduser input[type=text], .enduser textarea, .enduser .card-header h6, .enduser .media-heading a, .eu-font {
+    font-family: 'Montserrat', sans-serif;
+}
+.confirm-booking-page .property-pic {
+    width: 100%;
+    height: 100%;
+}

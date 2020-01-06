@@ -1,0 +1,120 @@
+header {
+    position: relative;
+    background-color: black;
+    height: 100vh;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    /* height: auto; */
+    /* z-index: 20; */
+    height: 100%;
+    object-fit: cover;
+    z-index: 20;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  }
+  
+  header .container {
+    position: relative;
+    z-index: 20;
+  }
+  
+  header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+  }
+  section#oe_tabs {
+    height: 52px;
+    padding: 0 35px 0 30px;
+    position: relative;
+    /* background-color: #2C3437; */
+    background-color: #015c8b; 
+}
+section#oe_tabs{
+    width: 100%;
+    display: inline-block;
+    padding-left: 30px;
+    vertical-align: top;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+section#oe_tabs div {
+    height: 52px;
+    overflow: visible;
+    padding-left: 0px;
+    width: 100%;
+}
+section#oe_tabs div ul {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 52px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.slides, .flex-control-nav, .flex-direction-nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+section#oe_tabs div ul li:first-child {
+    margin-left: 0;
+}
+section#oe_tabs div ul li:hover {
+    background-color: #96968d;
+    cursor: pointer;
+}
+section#oe_tabs div ul li {
+    height: 52px;
+}
+section#oe_tabs div ul li {
+    display: inline-block;
+    height: 52px;
+    color: #000;
+}
+section#oe_tabs div ul li.selected a {
+    /* background: #2A2F32; */
+    background: #0976a5
+}
+section#oe_tabs div ul li.selected a {
+    color: #fff;
+    display: inline-block;
+    font-weight: 900;
+}
+section#oe_tabs div ul li a {
+    display: inline-block;
+    height: 52px;
+    line-height: 56px;
+    font-family: Lato, Arial, sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0 18px;
+}
+.upcomingfestivals{
+    flex-basis: 42%;
+}

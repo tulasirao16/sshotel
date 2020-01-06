@@ -1,0 +1,21 @@
+{
+    "mongoDBConnection": "mongodb://localhost:27017/amtopm_prod",
+
+    "fromUserEmail": "nodetestngs@gmail.com",
+    "fromUserEmailPassword": "Node@123",
+    "mailServerHost": "smtp.gmail.com",
+    "mailServerPort": 587,
+    "paymentsEmail": "ashok@ontyme.org",
+    "jwtSecretKey": "$!D@TeK!NxTgE#$oL",
+    "payuTestKey": "UpeVSOb1",
+    "payuTestSalt": "qGTJvtyPQX",
+    "payuTestAuthHeader": "R4sr9/S0qohk5P1r0ZpIKsGtqcbFAJ3rnMzoMGyPwPE=",
+    "payuProdKey": "",
+    "payuProdSalt": "",
+    "payuProdAuthHeader": "",
+    "twilioAccSID": "",
+    "twilioAuthToken": "",
+    "twilioWhatsAppNum": "+14155238886",
+    "apiDomain": "http://localhost:3003/",
+    "uiDomain": "http://localhost:4300/#/"
+}

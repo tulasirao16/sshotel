@@ -1,0 +1,23 @@
+.landing-search-checkIn .react-datepicker-wrapper .react-datepicker__input-container input,
+.landing-search-checkOut .react-datepicker-wrapper .react-datepicker__input-container input {
+    width: 160px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 4px;
+    font-size: .875rem;
+    height: calc(1em + 0.1rem + 0px);
+    margin-top: 0px;
+    padding-left: 1px;
+    border: 0px;
+    background-color: rgb(1, 164, 162);
+}
+.sticky-filter .landing-search-checkIn .react-datepicker-wrapper .react-datepicker__input-container input,
+.sticky-filter .landing-search-checkOut .react-datepicker-wrapper .react-datepicker__input-container input {
+    background-color: white;
+}
+
+.label-white {
+    color: '#ffffff'
+}
+.bg-self {
+    background-color: rgb(1, 164, 162);
+}

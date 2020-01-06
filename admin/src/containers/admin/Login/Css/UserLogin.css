@@ -1,0 +1,25 @@
+.input-error-icon {
+    position: absolute;
+    top: 47px;
+    right: 10px;
+}
+.forget-pawd {
+    font-size: 12px;
+    color: #025d8c;
+    font-weight: 500;
+}
+a {
+    cursor: pointer;
+}
+.mandatory {
+    color: red;
+}
+
+.content{
+    margin-top:-240px;
+}
+
+.errorMessage{
+    color: red;
+    font-size: 12px
+}

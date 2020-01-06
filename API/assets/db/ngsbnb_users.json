@@ -1,0 +1,31 @@
+{
+	"_id" : "94d6c2b0-4555-11e9-82e1-abbef5451a40",
+	"preferences" : {
+		"defaultLanguage" : "English",
+		"defaultTimezone" : "IST",
+		"defaultCurrency" : "INR",
+		"currencyFormat" : "#,###.##",
+		"dateFormat" : "MMM DD, YYYY",
+		"rowsPerPage" : 10
+	},
+	"isDeleted" : false,
+	"userAccount" : "superadmin",
+	"email" : "superadmin@ngsbnb.com",
+	"mobileNumber" : "9999999999",
+	"password" : "5952fecc64a4c0c896f00745ff738742ac75b571a737fe00573d11d2ab69298261662bb551d6839a29b16bd921823c3017855c1d8a88febb481d44dd84029398",
+	"passwordSalt" : "1c288aeea7d5ecbec6baf7c8cae53015",
+	"otp" : "",
+	"otpSalt" : "",
+	"userRole" : "Customer",
+	"entityType" : "Customer",
+	"entityName" : "94d0f650-4555-11e9-82e1-abbef5451a40",
+	"entityObj" : "94d0f650-4555-11e9-82e1-abbef5451a40",
+	"userStatus" : "Active",
+	"createdBy" : "superadmin",
+	"createdAt" : 1552437148000,
+	"createdOn" : "2019-03-13 06:02:28",
+	"updatedBy" : "15524371482340",
+	"updatedAt" : 1552437181000,
+	"updatedOn" : "2019-03-13 06:03:01",
+	"__v" : 0
+}

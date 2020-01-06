@@ -1,0 +1,31 @@
+.body-main {
+    background-color: #eaf5ff;
+}
+
+.footer-main {
+    padding: 20px 0;
+    background: #eaf5ff;
+}
+
+.home-header{
+    height:400px;
+}
+
+.content{
+    margin-top: -15rem!important;
+}
+
+.card-profile-upload {
+    background-color: #fff;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: 1px solid #ccc;
+    margin:0 auto;
+}
+
+.cam-icon {
+    font-size: 50px;
+    padding: 34px;
+    color: #ccc;
+}

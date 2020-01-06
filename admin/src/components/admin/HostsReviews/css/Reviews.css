@@ -1,0 +1,110 @@
+.bookings .tabs .nav.nav-tabs li.nav-item {
+    width: 15%;
+    text-align: center;
+}
+.bookings .tabs .btn-actions .btn {
+    padding: .375rem .75rem;
+}
+.table-action {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #adb5bd;
+}
+.btn-actions .table-action-view {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #11cdef !important;
+}
+.btn-actions .table-action-edit {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #30a0a2 !important;
+}
+.btn-actions .table-action-cancel {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #f6465c !important;
+}
+.btn-actions .table-action-review {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #e67645 !important;
+}
+.btn-actions .table-action-book {
+    font-size: .875rem;
+    margin: 0 .25rem;
+    color: #035e8b !important;
+}
+.btn-actions .table-action-review i.fas.fa-star {
+    font-size: 13px;
+}
+.radio-inline .radio-btn {
+    width:20px;
+    height: 20px;
+    position: relative;
+    top: 4px;
+}
+.card-title-route {
+    color: #79797b;
+}
+.btn-cozy {
+    background: #32a3a3;
+}
+.text-muted-white {
+    color: white;
+    width: 40px;
+}
+.review-table tbody td.table-user {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    width:250px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+/* .table-rHeading {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    width:80px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.table-rComment {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    width:200px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+} */
+.ratings-section ul.pagination li.disabled {
+    background: #eef5fb;
+}
+.ratings-section ul.pagination li {
+    padding:0px;
+    margin:6px;
+}
+.ratings-section ul.pagination li.page-item .page-link {
+    margin:0px;
+}
+.view-rating-page {
+    font-family: 'Montserrat', sans-serif;
+}
+.enduser input[type=text], .enduser textarea, .enduser .card-header h6, .enduser .media-heading a, .eu-font {
+    font-family: 'Montserrat', sans-serif;
+}
+.breadcrumb.eu.eu-font .breadcrumb-item, .enduser .table .thead-light th, .enduser .table-flush tbody tr td,
+.enduser small, .enduser h5.text-sm, .enduser h5.card-title {
+    font-family: 'Montserrat', sans-serif;
+}
+.modalOne p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: darkslategrey !important;
+}
+.modalOne .btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: '#ffffff'
+}

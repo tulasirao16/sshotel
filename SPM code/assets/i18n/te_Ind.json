@@ -1,0 +1,926 @@
+{
+    "lanLabelHome": "హోమ్",
+    "lanTitleBookingHistoryList": "బుకింగ్ చరిత్ర జాబితా",
+    "lanLabelNoBookings": "బుకింగ్‌లు లేవు",
+    "lanTitleAll": "అన్ని",
+    "lanTitleUpcoming": "రాబోయే",
+    "lanTitlePast": "గత",
+    "lanCommonLabelSearch": "వెతకండి",
+    "lanTitleBookingHistory": "బుకింగ్ చరిత్ర",
+    "lanTitleBookingDetails": "బుకింగ్ వివరాలు",
+    "lanLabelBookingCode": "బుకింగ్ కోడ్",
+    "lanLabelBookedBy": "ద్వారా బుక్ చేయబడింది",
+    "lanLabelMobile": "మొబైల్ #",
+    "lanLabelNoOfPersons": "వ్యక్తుల సంఖ్య",
+    "lanLabelAdults": "పెద్దలు",
+    "lanLabelChild": "చైల్డ్",
+    "lanLabelNoOfRooms": "గదుల సంఖ్య",
+    "lanLabelTotalDays": "మొత్తం రోజులు",
+    "lanLabelCheckInCheckOutTime": "చెక్-ఇన్-పరిశీలించడం జరిగింది టైమ్",
+    "lanLabelStatus": "స్థితి",
+    "lanLabelPaymentMode": "చెల్లింపు మోడ్",
+    "lanLabelGrandTotal": "సంపూర్ణ మొత్తము",
+    "lanLabelPaymentStatus": "చెల్లింపు స్థితి",
+    "lanLabelContactPerson": "వ్యక్తిని సంప్రదించండి",
+    "lanLabelMobileNumber": "మొబైల్ సంఖ్య",
+    "lanLabelEmail": "ఇమెయిల్",
+    "lanLabelAddress": "చిరునామా",
+    "lanTitleEditBooking": "బుకింగ్ సవరించండి",
+    "lanLabelNoOfAdults": "పెద్దల సంఖ్య",
+    "lanLabelNoOfChilds": "పిల్లల సంఖ్య",
+    "lanLabelCheckIn": "చెక్-ఇన్ చేయి",
+    "lanLabelCheckOut": "చెక్-అవుట్",
+    "lanLabelCheckInTime": "చెక్ఇన్ సమయం",
+    "lanLabelCheckOutTime": "చెక్ అవుట్ సమయం",
+    "lanLabelCurrentBookingStatus": "ప్రస్తుత బుకింగ్ స్థితి",
+    "lanErrorBookingCancellationFailed":"బుకింగ్ రద్దు విఫలమైంది",
+    "lanCommonButtonUpdate": "నవీకరణ",
+    "lanCommonButtonOk": "అలాగే",
+    "lanCommonButtonBACK": "తిరిగి",
+    "lanCommonButtonYes": "అవును",
+    "lanCommonButtonNo": "తోబుట్టువుల",
+    "lanLabelClock": "గడియారం",
+    "lanLabelMinutes": "మినిట్స్(మినిట్స్)",
+    "lanCommonButtonCancel": "రద్దు చేయండి",
+    "lanLabelAreYouSureYouWantTo": "మీకు ఖచ్చితంగా తెలుసా, మీరు కోరుకుంటున్నారు",
+    "lanLabelAreYouSureYouWantToCancelTheBooking": "మీరు ఖచ్చితంగా ఈ బుకింగ్‌ను రద్దు చేయాలనుకుంటున్నారా",
+    "lanLabelNoteNoRefundOnCancellation": "గమనిక: రద్దుపై వాపసు లేదు",
+    "lanErrorPropertyInActiveCreateBooking": "ఈ ఆస్తి క్రియారహితంగా ఉంది, దయచేసి మరొక క్రియాశీల ఆస్తిని ఎంచుకోండి",
+    "lanLabelCancel": "రద్దు చేయండి",
+    "lanLabelThisBookingOn": "ఈ బుకింగ్ ఆన్‌లో ఉంది",
+    "lanLabelToTheCustomer": "కస్టమర్‌కు",
+    "lanLabelWithBookingID": "బుకింగ్ ఐడి తో:",
+    "lanLabelTotalAmountOf": " మొత్తం మొత్తం",
+    "lanLabelWillBe": " ఉంటుంది",
+    "lanLabelRefunded": " తిరిగి చెల్లించబడదు",
+    "lanLabelBookings": "బుకింగ్",
+    "lanLabelCancelled": "రద్దు",
+    "lanLabelPropertyList": "ఆస్తి జాబితా",
+    "lanLabelMessages": "సందేశాలు",
+    "lanLabelReviewRatings": "రేటింగ్స్ సమీక్షించండి",
+    "lanLabelAmount": "మొత్తం",
+    "lanLabelBlockdates": "తేదీలను బ్లాక్ చేయండి",
+    "lanLabelOffers": "ఆఫర్స్",
+    "lanLabelNoBookingsListed": "బుకింగ్‌లు జాబితా చేయబడలేదు",
+    "lanLabelCreateBooking": "బుకింగ్ సృష్టించండి",
+
+   "lanActionHome": "హోమ్",
+   "lanActionProperties": "గుణాలు",
+   "lanActionServiceLocations": "సేవా స్థానాలు",
+   "lanActionInbox": "ఇన్బాక్స్",
+   "lanActionBookings": "బుకింగ్స్",
+   "lanActionRatingAndReviews": "రేటింగ్ & సమీక్షలు",
+   "lanActionUsers": "వినియోగదారులు",
+   "lanActionNotifications": "ప్రకటనలు",
+   "lanActionProfile": "ప్రొఫైల్",
+   "lanActionSupport": "మద్దతు",
+   "lanActionLogout": "లాగౌట్",
+   "lanLabelAreYouSureYouWantToLogOut": "మీరు ఖచ్చితంగా, మీరు లాగ్ అవుట్ చేయాలనుకుంటున్నారా?",
+   "lanCommonButtonConfirm": "నిర్ధారించండి",
+
+
+   "lanTitlePropertyInfoList": "ఆస్తి సమాచారం జాబితా",
+   "lanTitlePropertyInfoEdit": "ఆస్తి సమాచారం సవరించండి",
+   "lanLabelSelectRentType": "అద్దె రకాన్ని ఎంచుకోండి",
+   "lanLabelSelectRoomType": "గది రకాన్ని ఎంచుకోండి",
+   "lanLabelRoomCategory": "గది వర్గం",
+   "lanLabelRoomName": "గది పేరు",
+   "lanLabelAdultsCapacity": "పెద్దల సామర్థ్యం",
+   "lanLabelChildCapacity": "పిల్లల సామర్థ్యం",
+   "lanLabelRoomsCount": "గదుల సంఖ్య",
+   "lanLabelActiveRooms": "యాక్టివ్ రూములు",
+   "lanLabelOnHoldRooms": "ఆన్హోల్డ్ రూములు",
+   "lanLabelDefaultPriority": "డిఫాల్ట్ ప్రాధాన్యత",
+   "lanLabelSingleBeds": "ఒకే పడకలు",
+   "lanLabelDoubleBeds": "డబుల్ పడకలు",
+   "lanLabelKitchens": "కిచెన్స్",
+   "lanLabelHalls": "హాల్స్",
+   "lanLabelNoPropertyInfosTillNow": "ఇప్పటివరకు ఆస్తి సమాచారం లేదు!",
+   "lanLabelSearch": "శోధన...",
+   "lanLabelBathRooms": "బాత్ రూములు",
+   "lanLabelNoOfAcs": "ఎసిల సంఖ్య",
+   "lanLabelPricing": "ధర",
+   "lanLabelAmenities": "సదుపాయాలు",
+   "lanLabelServices": " సేవలు",
+   "lanLabelGuestRules": "అతిథి నియమాలు",
+
+
+   "lanTitleSupport": "మద్దతు",
+   "lanLabelNoTicketsFound": "టిక్కెట్లు కనుగొనబడలేదు",
+   "lanLabelTicketType": "టికెట్ రకం",
+   "lanLabelTicketTitle": "టికెట్ శీర్షిక",
+   "lanLabelTicketStatus": "టికెట్ స్థితి",
+   "lanLabelTicketNumber": "టికెట్ #",
+   "lanLabelSupportDate": "తేదీ",
+   "lanLabelTicketDescription": "టికెట్ వివరణ",
+   "lanLabelTickets": "టికెట్లు!",
+   "lanLabelSupportSearch": "శోధన...",
+   "lanTitleViewTicket": "టికెట్ చూడండి",
+   "lanLabelTicketList": "టికెట్ జాబితా",
+   "lanLabelNewTicket": "కొత్త టికెట్",
+   "lanCommonButtonDone": "పూర్తి",
+   "lanErrorTicketTypeIsRequired": "టికెట్ రకం అవసరం",
+   "lanErrorMobileNumberIsRequired": "మొబైల్ నంబర్ అవసరం",
+   "lanErrorInvalidMobileNumber": "చెల్లని మొబైల్ సంఖ్య",
+   "lanErrorInvalidEmail": "చెల్లని ఇమెయిల్",
+   "lanErrorTicketTitleIsRequired": "టికెట్ శీర్షిక అవసరం",
+   "lanErrorTicketDescriptionIsRequired": "టికెట్ వివరణ అవసరం",
+   "lanSucessTicketSent": "టికెట్ పంపారు",
+   "lanErrorTicketSentFailed": "పంపిన టికెట్ విఫలమైంది",
+
+
+   "lanTitleSignIn": "సైన్ ఇన్ చేయండి",
+   "lanErrorPleaseEnterUserId": "దయచేసి యూజర్ ఐడిని నమోదు చేయండి",
+   "lanErrorPleaseEnterPassword": "దయచేసి పాస్వర్డ్ను నమోదు చేయండి",
+   "lanErrorNoInternetConnection": "ఇంటర్నెట్ కనెక్షన్ లేదు",
+   "lanErrorInvalidLoginCredentials": "చెల్లని లాగిన్ ఆధారాలు",
+   "lanLabelEnterUserID": "ఇమెయిల్ / మొబైల్ # / యూజర్ ఐడిని నమోదు చేయండి",
+   "lanLabelEnterYourPassword": "మీ పాస్వర్డ్ ని నమోదుచేయండి",
+   "lanCommonButtonForgotPassword": "పాస్వర్డ్ మర్చిపోయారా",
+   "lanCommonButtonLogin": "లాగిన్",
+   "lanLabelDontHaveAnAccount": "ఖాతా లేదు?",
+   "lanCommonButtonBecomeHost": "హోస్ట్ అవ్వండి",
+   "lanErrorPleaseEnterEmailMobileNumber": "దయచేసి ఇమెయిల్ / మొబైల్ నంబర్‌ను నమోదు చేయండి",
+   "lanErrorEnterValidEmailMobileNumber": "దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ / మొబైల్ నంబర్‌ను నమోదు చేయండి",
+   "lanErrorPleaseProvideARegisterdEmail": "దయచేసి రిజిస్టర్డ్ ఇమెయిల్ ఇవ్వండి",
+   "lanErrorFailedToSendOTP": "దయచేసి ఇమెయిల్ / మొబైల్ నంబర్‌ను నమోదు చేయండి",
+   "lanErrorPleaseProvideARegisterdMobileNumber": "దయచేసి రిజిస్టర్డ్ మొబైల్ నంబర్‌ను అందించండి",
+   "lanTitleForgotPassword": "పాస్వర్డ్ మర్చిపోయారా",
+   "lanLabelEnterYourEmailMobileNumber": "మీ ఇమెయిల్ / మొబైల్ నంబర్‌ను నమోదు చేయండి",
+   "lanCommonButtonSendOTP": "OTP పంపండి",
+   "lanTitleOTPVerify": "OTP ధృవీకరించండి",
+   "lanLabelWaitOTPNumberWillBe": "వేచి! OTP సంఖ్య ఉంటుంది",
+   "lanLabelVerifiedHere": "ఇక్కడ ధృవీకరించబడింది",
+   "lanLabelPleaseEnterTheOTPNumberManually": "దయచేసి OTP సంఖ్యను మానవీయంగా నమోదు చేయండి",
+   "lanLabelIfTheNumberIsNotVerifiedAutomatically": "సంఖ్య స్వయంచాలకంగా ధృవీకరించబడకపోతే",
+   "lanCommonButtonSubmit": "సమర్పించండి",
+   "lanErrorPleaseEnterFourDigitsOfOTP": "దయచేసి OTP యొక్క 4 అంకెలను నమోదు చేయండి",
+   "lanErrorInvalidOTP": "చెల్లని OTP",
+   "lanTitleResetPassword": "రహస్యపదాన్ని మార్చుకోండి",
+   "lanLabelResetPassword": "రహస్యపదాన్ని మార్చుకోండి",
+   "lanErrorPasswordShouldBeAtleastSixCharacters": "పాస్‌వర్డ్ కనీసం 6 అక్షరాలు ఉండాలి",
+   "lanSuccessPasswordSuccessfullyChanged": "పాస్వర్డ్ విజయవంతంగా మార్చబడింది",
+   "lanErrorFailedToCreatePassword": "పాస్‌వర్డ్‌ను సృష్టించడంలో విఫలమైంది",
+
+
+   "lanTitleBecomeHost": "హోస్ట్ అవ్వండి",
+   "lanLabelBussinessName": "వ్యాపారం పేరు",
+   "lanLabelContactMobileNumber": "మొబైల్ # ని సంప్రదించండి",
+   "lanLabelCity": "నగరం",
+   "lanLabelAlreadyHaveAnAccount": "ఖాతా కలిగి ఉన్నారా?",
+   "lanCommonButtonSignIn": "సైన్ ఇన్ చేయండి",
+   "lanLabelPleaseEnterTheFourDigitOTPNumberBelow": "దయచేసి దిగువ 4 అంకెల OTP సంఖ్యను నమోదు చేయండి",
+   "lanLabelHi": "హాయ్",
+   "lanLabelGuest": "గెస్ట్",
+   "lanCommonButtonClose": "దగ్గరగా",
+   "lanLabelOTP:": "OTP:",
+   "lanErrorContactMobOTPileNumberIsRequired": "సంప్రదింపు మొబైల్ నంబర్ అవసరం",
+   "lanErrorInvalidContactMobileNumber": "సంప్రదింపు మొబైల్ సంఖ్య చెల్లదు",
+   "lanErrorMobileNumberIsAlreadyVerified": "మొబైల్ నంబర్ ఇప్పటికే ధృవీకరించబడింది",
+   "lanErrorOTPSentFailed": "పంపిన OTP విఫలమైంది",
+   "lanErrorOTPVerificationFailed": "OTP ధృవీకరణ విఫలమైంది",
+   "lanLabelVerified": "ధృవీకరించబడిన",
+   "lanLabelVerify": "నిర్ధారించండి",
+   "lanErrorEnterOTP": "OTP ని నమోదు చేయండి",
+   "lanErrorContactEmailIsRequired": "సంప్రదింపు ఇమెయిల్ అవసరం",
+   "lanErrorInvalidContactEmail": " సంప్రదింపు ఇమెయిల్ చెల్లదు",
+   "lanErrorEmailIsAlreadyVerified": "ఇమెయిల్ ఇప్పటికే ధృవీకరించబడింది",
+   "lanErrorBussinessNameIsRequired": "ఇమెయిల్ ఇప్పటికే ధృవీకరించబడింది",
+   "lanErrorBussinessNameShouldHaveMinimumThreeCharacters": "బిజినెస్ పేరుకు కనీసం 3 అక్షరాలు ఉండాలి",
+   "lanErrorContactPersonIsRequired": "సంప్రదింపు వ్యక్తి అవసరం",
+   "lanErrorPleaseVerifyContactMobileNumber": "దయచేసి సంప్రదింపు మొబైల్ నంబర్‌ను ధృవీకరించండి",
+   "lanErrorPleaseVerifyContactEmail": "దయచేసి సంప్రదింపు ఇమెయిల్‌ను ధృవీకరించండి",
+   "lanErrorPropertyTypeIsRequired": "ఆస్తి రకం అవసరం",
+   "lanErrorCityIsRequired": "నగరం అవసరం",
+   "lanErrorAddressIsRequired": "చిరునామా అవసరం",
+   "lanErrorSomethingWentWrongPleaseTryAgain": "ఏదో తప్పు జరిగింది దయచేసి మళ్ళీ ప్రయత్నించండి",
+
+
+   "lanTitlePriceDetails": "ధర వివరాలు",
+   "lanLabelMinBasePriceUnit": "కనిష్ట మూల ధర యూనిట్",
+   "lanLabelMinBasePrice": "కనిష్ట బేస్ ధర",
+   "lanLabelBillingType": "బిల్లింగ్ రకం",
+   "lanLabelBasePrice": "మూల ధర",
+   "lanLabelCheckInCredentials": "చెక్ఇన్ ఆధారాలు",
+   "lanLabelCurrency": "కరెన్సీ",
+   "lanLabelFullRefundCancelTime": "పూర్తి వాపసు రద్దు సమయం (గంటలు)",
+   "lanLabelRefundCancelTime": "వాపసు రద్దు సమయం (గంటలు)",
+   "lanLabelRefundCancelPercentage": "వాపసు రద్దు పర్సెంటేజ్ (%)",
+
+
+   "lanTitleLocationsList": "స్థానాల జాబితా",
+   "lanLabelNoLocationsTillNow": "ఇప్పటి వరకు స్థానాలు లేవు",
+   "lanLabelNoMatchesFound": "ఎలాంటి పోలికలు దొరకలేదు!.",
+   "lanLabelInformation": "సమాచారం",
+   "lanLabelNoInternetConnection": "ఇంటర్నెట్ కనెక్షన్ లేదు",
+   "lanTitleLocationView": "స్థాన వీక్షణ",
+   "lanLabelArea": "ప్రాంతం",
+   "lanLabelLandmark": "మైలురాయి",
+   "lanLabelPinCode": "పిన్ కోడ్",
+   "lanLabelState": "రాష్ట్రం",
+   "lanLabelCountry": "దేశం",
+   "lanLabelLatitude": "అక్షాంశం",
+   "lanLabelLongitude": "రేఖాంశం",
+   "lanLabelAlternateMobileNumber": "ప్రత్యామ్నాయ మొబైల్ సంఖ్య",
+   "lanLabelNotGettingLocationPleaseEnterManually": "స్థానం పొందడం లేదు. దయచేసి మాన్యువల్‌గా నమోదు చేయండి",
+   "lanTitleLocationEdit": "స్థానం సవరించండి",
+   "lanErrorAreaIsRequired": "ప్రాంతం అవసరం",
+   "lanErrorPincodeIsRequired": "పిన్కోడ్ అవసరం",
+   "lanErrorCountryIsRequired": "దేశం అవసరం",
+   "lanErrorInvalidAlternateMobileNumber": "చెల్లని ప్రత్యామ్నాయ మొబైల్ సంఖ్య",
+   "lanErrorEmailIsRequired": "ఇమెయిల్ అవసరం",
+   "lanErrorLatitudeIsRequired": "అక్షాంశం అవసరం",
+   "lanErrorLongitudeIsRequired": "రేఖాంశం అవసరం",
+   "lanErrorLocationStatusIsRequired": "స్థాన స్థితి అవసరం",
+   "lanErrorStateIsRequired": "రాష్ట్రం అవసరం",
+   "lanSuccessLocationUpdatedSuccessfully": "స్థానం విజయవంతంగా నవీకరించబడింది",
+   "lanErrorLocationUpdatedFailed": "స్థానం నవీకరించబడింది విఫలమైంది",
+   "lanTitleLocationCreate": "స్థానం సృష్టించండి",
+   "lanLabelHotelCreateLocation": "హోటల్ - స్థానాన్ని సృష్టించండి",
+   "lanLabelIfNotMapedTypeTheAddressManualy": "మ్యాప్ చేయకపోతే, చిరునామా మాన్యువల్ టైప్ చేయండి",
+   "lanCommonButtonCreate": "సృష్టించడానికి",
+   "lanLabelLocationView": "స్థాన వీక్షణ",
+
+
+   "lanTitleServicesEditList": "సేవలు జాబితాను సవరించండి",
+   "lanLabelNoUsersFound": "వినియోగదారులు కనుగొనబడలేదు",
+   "lanLabelServiceEdit": "సేవ సవరణ",
+   "lanLabelServiceCode": "సేవా కోడ్",
+   "lanLabelSelecServiceType": "సేవా రకాన్ని ఎంచుకోండి",
+   "lanLabelEnterServiceCharge": "సేవా ఛార్జీని నమోదు చేయండి",
+   "lanLabelServiceStatus": "సేవా స్థితి",
+   "lanErrorPaidServiceShouldBeCharged": "చెల్లింపు సేవ వసూలు చేయాలి",
+   "lanErrorUpdateFailed": "నవీకరణ విఫలమైనది",
+
+
+   "lanTitleEditGuestRules": "అతిథి నియమాలను సవరించండి",
+   "lanLabelNoGuestRules": "అతిథి నియమాలు లేవు",
+
+
+   "lanLabelThingsGuestShouldKnow": "అతిథి తెలుసుకోవలసిన విషయాలు",
+   "lanTitlePreference": "ప్రాధాన్యత",
+   "lanLabelLanguage": "భాషా",
+   "lanLabelTimezone": "సమయమండలం",
+   "lanLabelDateFormat": "తేదీ ఫార్మాట్",
+   "lanButtonUpdate": "నవీకరణ ",
+
+
+   "lanErrorUpdatedSuccessfully": "విజయవంతంగా నవీకరించబడింది",
+
+
+   "lanLabelSelectyourTimezone": "మీ టైమ్‌జోన్‌ను ఎంచుకోండి",
+   "lanLabelSelectyourLanguage": "మీ భాషను ఎంచుకోండి",
+   "lanLabelSelectyourCurrency": "మీ కరెన్సీని ఎంచుకోండి",
+   "lanLabelSelectyourDateFormat": "మీ తేదీ ఆకృతిని ఎంచుకోండి",
+
+
+   "lanErrorCurrentPasswordisRequired": "ప్రస్తుత పాస్‌వర్డ్ అవసరం",
+   "lanErrorNewPasswordisRequired": "క్రొత్త పాస్‌వర్డ్ అవసరం",
+   "lanErrorNewPasswordShouldContainMinimumSixcharacters": "క్రొత్త పాస్‌వర్డ్‌లో కనీసం 6 అక్షరాలు ఉండాలి",
+   "lanErrorPasswordUpdatedSuccessfully": "పాస్వర్డ్ విజయవంతంగా నవీకరించబడింది",
+   "lanErrorInvalidCurrentPassword": "ప్రస్తుత పాస్‌వర్డ్ చెల్లదు",
+   "lanErrorPasswordUpdateFailed": "పాస్‌వర్డ్ నవీకరణ విఫలమైంది",
+   "lanTitleChangePassword": "పాస్వర్డ్ మార్చండి",
+   "lanLabelCurrentPassword": "ప్రస్తుత పాస్వర్డ్",
+   "lanLabelNewPassword": "కొత్త పాస్వర్డ్",
+
+
+   "lanTitleRatings&ReviewsList": "రేటింగ్స్ & సమీక్షల జాబితా",
+   "lanLabelRating": "రేటింగ్",
+   "lanLabelReviewHeadline": "హెడ్‌లైన్‌ను సమీక్షించండి",
+   "lanLabelReviewComments": "వ్యాఖ్యలను సమీక్షించండి",
+   "lanLabelReviewStatus": "సమీక్ష స్థితి",
+   "lanLabelNoRatings": "రేటింగ్‌లు లేవు",
+
+
+   "lanTitleHotelRatings&Reviews": "హోటల్ - రేటింగ్స్ & రివ్యూస్ ",
+
+
+   "lanTitleInbox": "ఇన్బాక్స్",
+   "lanLabelNoMessageFound": "సందేశం కనుగొనబడలేదు",
+
+
+   "lanErrorEnterMessageToSend": "పంపడానికి సందేశాన్ని నమోదు చేయండి",
+   "lanLabelSendMessageFailed": "సందేశం పంపడం విఫలమైంది",
+   "lanLabelNoMessagesYet": "ఇంకా సందేశాలు లేవు",
+   "lanLabelReply": "ప్రత్యుత్తరం",
+
+
+   "lanLabelNoPropertiesTillNow": "ఇప్పటి వరకు లక్షణాలు లేవు!",
+   "lanTitlePropertiesList": "లక్షణాల జాబితా",
+   "lanLabelAddAnotherProperty": "మరొక ఆస్తిని జోడించండి",
+
+
+   "lanErrorPleaseUpdateTheAddedImage": "దయచేసి జోడించిన చిత్రాన్ని నవీకరించండి",
+   "lanErrorPleaseAddPropertyImage": "దయచేసి ఆస్తి చిత్రాన్ని జోడించండి",
+   "lanErrorVideoShouldBeLessThanFiftyMB": "వీడియో 50 MB కన్నా తక్కువ ఉండాలి",
+   "lanErrorToUploadNewVideoDeleteExistingVideo": "క్రొత్త వీడియోను అప్‌లోడ్ చేయడానికి, ఇప్పటికే ఉన్న వీడియోను తొలగించండి",
+   "lanErrorVideoDurationShouldBeLessThanSixtySeconds": "వీడియో వ్యవధి 60 సెకన్ల కన్నా తక్కువ ఉండాలి",
+   "lanErrorPropertyImageisRequired": "ఆస్తి చిత్రం అవసరం",
+   "lanErrorMaximumOfTenImages": "గరిష్టంగా 10 చిత్రాలు",
+   "lanErrorPropertyTitleIsRequired": "ఆస్తి శీర్షిక అవసరం",
+   "lanErrorAboutThePropertyIsRequired": "ఆస్తి గురించి అవసరం",
+   "lanErrorPropertyCreateFailed": "ఆస్తి సృష్టి విఫలమైంది",
+   "lanLabelPropertyTitle": "ఆస్తి శీర్షిక",
+   "lanLabelAboutYourProperty": "మీ ఆస్తి గురించి",
+   "lanLabelSelectPropertyType": "ఆస్తి రకాన్ని ఎంచుకోండి",
+   "lanLabelHotel": "హోటల్",
+   "lanLabelIndividualHouse": "వ్యక్తిగత సభ",
+   "lanButtonLocationDetails": "స్థాన వివరాలు",
+   "lanButtonNearestAreas": "సమీప ప్రాంతాలు",
+   "lanLabelSingleBedrooms": "సింగిల్ బెడ్ రూములు",
+   "lanLabelDoubleBedrooms": "డబుల్ బెడ్ రూములు",
+   "lanLabelBathrooms": "బాత్ రూములు",
+   "lanLabelACs": "AC యొక్క",
+   "lanButtonDone": "పూర్తి",
+
+
+   "lanErrorYouCanNotInactiveTheProperty": "మీరు ఆస్తిని నిష్క్రియం చేయలేరు",
+   "lanButtonYes": "అవును",
+   "lanButtonNo": "కాదు",
+   "lanLabelEditProperty": "ఆస్తిని సవరించండి",
+   "lanLabelSharing": "భాగస్వామ్య",
+   "lanLabelPrivate": "ప్రైవేట్",
+   "lanLabelIndividual": "వ్యక్తిగత",
+   "lanLabeOneBHK": "1 బిహెచ్‌కె",
+   "lanLabelPropertyName": "ఆస్తి పేరు",
+   "lanLabelActiveRoom": "యాక్టివ్ రూమ్",
+   "lanLabelNoofACs": "ఎసిల సంఖ్య",
+   "lanButtonCreate": "సృష్టించు",
+
+
+   "lanErrorNotGettingLocationPleaseEnterManually": "స్థానం పొందడం లేదు, దయచేసి మాన్యువల్‌గా నమోదు చేయండి",
+   "lanErrorLocationUpdatedSuccessfully": "స్థానం విజయవంతంగా నవీకరించబడింది",
+   "lanErrorLocationUpdateFailed": "స్థాన నవీకరణ విఫలమైంది",
+
+
+   "lanErrorPleaseAddArea": "దయచేసి ప్రాంతాన్ని జోడించండి",
+   "lanErrorAreaAlreadyExists": "ప్రాంతం ఇప్పటికే ఉంది",
+   "lanLabelPleaseAddNearestAreas": "దయచేసి సమీప ప్రాంతాలను జోడించండి",
+   "lanButtonAdd": "చేర్చు",
+
+
+   "lanTitleBlockedDates": "బ్లాక్ చేసిన తేదీలు",
+
+
+   "lanTitleCreateBlockedDates": "నిరోధించిన తేదీలను సృష్టించండి",
+
+
+   "lanErrorBlockedDatesDependencys": "ఈ తేదీలో మీకు బుకింగ్ ఉన్నందున మీరు ఈ తేదీలను నిరోధించలేరు",
+   "lanErrorYouHaveAlreadyBlockedThisDates": "మీరు ఇప్పటికే ఈ తేదీలను బ్లాక్ చేసారు",
+   "lanLabelFromDate": "తేదీ నుండి:",
+   "lanLabelToDate": "తేదీకి:",
+   "lanErrorYouCannotBlockMoreThanTenDates": "మీరు 10 తేదీలకు మించి బ్లాక్ చేయలేరు",
+   "lanErrorBlockingTypeIsRequired": "నిరోధించే రకం అవసరం",
+   "lanErrorBlockingFromDateIsRequired": "తేదీ నుండి నిరోధించడం అవసరం",
+   "lanErrorBlockingToDateIsRequired": "తేదీకి నిరోధించడం అవసరం",
+   "lanErrorBlockingDatesAreRequired": "నిరోధించే తేదీలు అవసరం",
+
+
+   "lanTitlePropertyInfoView": "ఆస్తి సమాచారం వీక్షణ",
+   "lanLabelTypeOfProperty": "ఆస్తి రకం",
+   "lanLabelRentType": "అద్దె రకం",
+   "lanLabelRoomType": "గది రకం",
+   "lanLabelPRICEDETAILS": "ధర వివరాలు",
+   "lanLabelAMENITIES": "సదుపాయాలు",
+   "lanLabelSERVICES": "సేవలు",
+   "lanLabelGUESTRULES": "అతిథి నియమాలు",
+
+
+   "lanErrorPleaseAddLocationDetails": "దయచేసి స్థాన వివరాలను జోడించండి",
+    "lanErrorPleaseAddPropertyInfoDetails": "దయచేసి ఆస్తి సమాచారం వివరాలను జోడించండి",
+    "lanErrorAddPropertyLocationDetails": "ఆస్తి స్థాన వివరాలను జోడించండి",
+    "lanTitlePropertyTitle": "ఆస్తి శీర్షిక",
+    "lanLabelCreateProperty": "ఆస్తిని సృష్టించండి",
+    "lanLabelPleaseAddPropertyImages": "దయచేసి ఆస్తి చిత్రాలను జోడించండి",
+    "lanLabelCreateLocation": "స్థానాన్ని సృష్టించండి",
+    "lanLabelAddNearestAreas": "సమీప ప్రాంతాలను జోడించండి",
+    "lanLabelCreateBlockedDates": "నిరోధించిన తేదీలను సృష్టించండి",
+    "lanLabelCreatePropertyInfos": "ఆస్తి సమాచారం సృష్టించండి",
+
+
+    "lanTitleAmenitiesList": "సౌకర్యాల జాబితా",
+    "lanTitleAmenities": "సదుపాయాలు",
+    "lanLabelFree": "ఉచిత",
+    "lanLabelNoAmenitiesListed": "సౌకర్యాలు జాబితా చేయబడలేదు",
+
+
+    "lanTitleAmenityView": "సౌకర్య వీక్షణ",
+    "lanLabelAmenityCode": "సౌకర్య కోడ్",
+    "lanLabelAmenityType": "సౌకర్య రకం",
+    "lanLabelCharge": "ఆరోపణ",
+
+
+    "lanTitleAmenitiesEdit": "సౌకర్యాలు సవరించండి",
+    "lanLabelNoAmenities": "సౌకర్యాలు లేవు",
+
+
+    "lanTitleAmenityEditView": "సౌలభ్యం సవరణ వీక్షణ",
+    "lanButtonSubmit": "సమర్పించండి",
+
+
+    "lanLabelSharingRoom": "షేరింగ్ రూమ్",
+    "lanLabelPrivateRoom": "ఏకాంతమైన గది",
+    "lanLabelEntireSpace": "మొత్తం స్థలం",
+    "lanLabelSingleBedRoom": "సింగిల్ బెడ్ రూమ్",
+    "lanLabelDoubleBedRoom": "డబుల్ బెడ్ రూమ్",
+    "lanLabeTwoBHK": "2 బిహెచ్‌కె",
+    "lanLabeThreeBHK": "3బిహెచ్‌కె",
+    "lanLabelFullAppartment": "పూర్తి అపార్ట్మెంట్",
+    "lanLabelLoft": "లోఫ్ట్",
+    "lanLabelCabin": "క్యాబిన్",
+    "lanLabelVilla": "విల్లా",
+    "lanLabelCastle": "కోట",
+    "lanLabelDorm":"వసతి",
+    "lanLabelEconomy": "ఎకానమీ",
+    "lanLabelDeluxe": "డీలక్స్",
+    "lanLabelLuxury": "లగ్జరీ",
+    "lanErrorRentTypeIsRequired": "అద్దె రకం అవసరం",
+    "lanErrorRoomTypeIsRequired": "గది రకం అవసరం",
+    "lanErrorRoomCategoryIsRequired": "గది వర్గం అవసరం",
+    "lanErrorAdultCapacityIsRequired": "వయోజన సామర్థ్యం అవసరం",
+    "lanErrorChildCapacityIsRequired": "పిల్లల సామర్థ్యం అవసరం",
+    "lanErrorTotalRoomsAreRequired": "మొత్తం గదులు అవసరం",
+    "lanErrorActiveRoomsAreRequired": "యాక్టివ్ రూములు అవసరం",
+    "lanErrorTotalRoomsShouldBeGreaterThanActiveRooms": "మొత్తం గదులు యాక్టివ్ రూమ్‌ల కంటే ఎక్కువగా ఉండాలి",
+    "RoomsAndOnHoldRoomsShouldBeLessThanTotalRooms": "యాక్టివ్ రూములు మరియు ఆన్‌హోల్డ్ రూములు మొత్తం గదుల కంటే తక్కువగా ఉండాలి",
+    "lanErrorSingleBedorDoubleBedsCountAreRequired": "సింగిల్‌బెడ్ లేదా డబుల్‌బెడ్ల సంఖ్య అవసరం",
+    "lanErrorPropertyInfoUpdateFailed": "ఆస్తి సమాచారం నవీకరణ విఫలమైంది",
+    "lanButtonPricing": "ధర",
+    "lanButtonAmenities": "సదుపాయాలు",
+    "lanButtonServices": "సేవలు",
+    "lanButtonGuestRules": "అతిథి నియమాలు",
+
+
+    "lanLabelBusinessInfo": "వ్యాపార సమాచారం",
+    "lanLabelContactMobile": "మొబైల్ # ని సంప్రదించండి",
+    "lanLabelContactEmail": "ఇమెయిల్‌ను సంప్రదించండి",
+    "lanErrorBusinessInfoInvalidContactEmail": "సంప్రదింపు ఇమెయిల్ చెల్లదు",
+    "lanLabelPin": "పిన్",
+    "lanSuccessUpdatedSuccessfully": "విజయవంతంగా నవీకరించబడింది",
+
+
+    "lanLabelFirstName": "మొదటి పేరు",
+    "lanLabelLastName": "చివరి పేరు",
+    "lanLabelDisplayName": "ప్రదర్శన పేరు",
+    "lanLabelUserDOB": "పుట్టిన తేది",
+    "lanLabelAlternateMobile": "ప్రత్యామ్నాయ మొబైల్ #",
+    "lanLabelAlternateEmail": "ప్రత్యామ్నాయ ఇమెయిల్",
+    "lanLabelUserId": "వినియోగదారుని గుర్తింపు",
+    "lanLabelUserRole": "వినియోగదారు పాత్ర",
+    "lanLabelUserStatus": "స్థితి",
+    "lanLabelConfirmNoteBeforeDelete": "మీరు తొలగించాలనుకుంటున్నారా ఖచ్చితంగా?",
+    "lanCommonButtonDelete": "తొలగించు",
+
+
+    "lanErrorEditUser": "వినియోగదారుని సవరించండి",
+    "lanLabelUserEditSelectDOB": "పుట్టిన తేదీని ఎంచుకోండి",
+    "lanLabelSelectGender": "లింగం ఎంచుకోండి",
+    "lanLabelSelectUserRole": "వినియోగదారు పాత్రను ఎంచుకోండి *",
+    "lanLabelSelectStatus": "స్థితిని ఎంచుకోండి *",
+    "lanLabelSelectOne": "ఒకటి ఎంచుకో",
+    "lanLabelChangePassword": "పాస్వర్డ్ మార్చండి",
+    "lanLabelEnterNewpassword": "క్రొత్త పాస్‌వర్డ్‌ను నమోదు చేయండి",
+    "lanErrorFirstNameIsRequired": "మొదటి పేరు అవసరం",
+    "lanErrorLastNameIsRequired": "చివరి పేరు అవసరం",
+    "lanErrorDisplayNameIsRequired": "ప్రదర్శన పేరు అవసరం",
+    "lanErrorUserRoleIsRequired": "వినియోగదారు పాత్ర అవసరం",
+    "lanErrorUserStatusIsRequired": "వినియోగదారు స్థితి అవసరం",
+    "lanErrorEmailExisting": "మీకు ఇప్పటికే ఈ ఇమెయిల్‌తో ఒక లెక్క ఉంది",
+    "lanErrorMobileNumberExisting": "మీకు ఇప్పటికే ఈ మొబైల్ నంబర్‌తో ఒక లెక్క ఉంది",
+
+
+    "lanLabelCreateUser": "వినియోగదారుని సృష్టించండి",
+    "lanLabelPassword": "పాస్వర్డ్",
+    "lanLabelUserCreateSelectUserRole": "వినియోగదారు పాత్రను ఎంచుకోండి",
+    "lanLabelUserCreateSelectStatus": "స్థితిని ఎంచుకోండి",
+    "lanErrorUnknownError": "మీకు తెలియని లోపం ఉంది",
+    "lanErrorPasswordIsRequired": "పాస్వర్డ్ అవసరం",
+    "lanErrorPasswordValidation": "పాస్వర్డ్ కనీసం 6 అక్షరాలు ఉండాలి",
+    "lanCommonButtonNext": "తరువాత",
+    "lanErrorUserIdExisting": "వినియోగదారు ఐడి ఇప్పటికే తీసుకోబడింది",
+    "lanLabelSelectState": "రాష్ట్రం ఎంచుకోండి",
+    "lanErrorPinCodeValidation": "దయచేసి, చెల్లుబాటు అయ్యే పిన్‌కోడ్‌ను నమోదు చేయండి",
+
+
+    "lanLabelAddGuestRules": "అతిథి నియమాలను జోడించండి",
+    "lanLabelGuestRule": "అతిథి నియమాలు",
+    "lanLabelAllowed": "అనుమతి",
+    "lanLabelNotAllowed": "ప్రవేశము లేదు",
+    "lanLabelMakeANote": "గమనిక చేయండి",
+    "lanLabelGuestRulesList": "అతిథి నియమాల జాబితా",
+    "lanLabelServicesList": "సేవల జాబితా",
+    "lanLabelService": "సేవలు",
+    "lanLabelNoServicesListed": "సేవలు జాబితా చేయబడలేదు",
+
+
+    "lanLabelServiceView": "సేవా వీక్షణ",
+    "lanLabelServiceType": "సేవా రకం",
+    "lanLabelServiceCharge": "సేవా ఛార్జ్",
+    "lanLabelCreateServices": "సేవలను సృష్టించండి",
+
+
+    "lanTitleMyProfile": "నా జీవన వివరణ",
+    "lanLabelIDProofs": "ఐడి ప్రూఫ్‌లు",
+    "lanLabelPreference": "ప్రాధాన్యత",
+    "lanLabelGetSupport": "సహాయం పొందు",
+    "lanLabelLogout": "లాగౌట్",
+
+
+    "lanTitleEditProfile": "ప్రొఫైల్‌ను సవరించండి",
+    "lanLabelDOB": "పుట్టిన తేది",
+    "lanLabelSelectDOB": "పుట్టిన తేదీని ఎంచుకోండి",
+    "lanLabelUserID": "వినియోగదారుని గుర్తింపు",
+    "lanErrorUserAccountIsRequired": "వాడుకరి ఖాతా అవసరం",
+    "lanErrorVerifyMobileNumber": "మొబైల్ నంబర్‌ను ధృవీకరించండి",
+    "lanSuccessProfileUpdatedSuccessfully": "ప్రొఫైల్ విజయవంతంగా నవీకరించబడింది",
+    "lanErrorProfileUpdateFailed": "ప్రొఫైల్ నవీకరణ విఫలమైంది",
+    "lanCommonButtonBack": "తిరిగి",
+
+
+    "lanTitleIDProofsList": "ఐడిప్రూఫ్ జాబితా",
+    "lanLabelNoIDProofsFound": "ID రుజువులు కనుగొనబడలేదు",
+    "lanCommonButtonAddIDProofs": "ID ప్రూఫ్‌లు జోడించం",
+
+
+    "lanTitleAddIDProof": "ఐడి ప్రూఫ్ జోడించండి",
+    "lanErrorUploadFailedSorry": "అప్‌లోడ్ విఫలమైంది, క్షమించండి",
+    "lanLabelSelectIDType": "ఐడి రకాన్ని ఎంచుకోండి",
+    "lanLabelCardNumber": "కార్డు సంఖ్య",
+    "lanLabeNameOnID": "ఐడి లో పేరు",
+    "lanLabelDOBDDMMYYYY": "DOB (DD-MM-YYYY)",
+    "lanLabelChooseIDProof": "ఐడి ప్రూఫ్ ఎంచుకోండి",
+    "lanCommonButtonBrowse": "బ్రౌజ్",
+    "lanErrorIDTypeIsRequired": "ఐడి రకం అవసరం",
+    "lanLabelPleaseSelectIDType": "దయచేసి ఐడి రకాన్ని ఎంచుకోండి",
+    "lanErrorCardNumberRequired": "కార్డు సంఖ్య అవసరం",
+    "lanErrorNameOnIDRequired": "ఐడి లో పేరు అవసరం",
+    "lanErrorImageIsRequired": "చిత్రం అవసరం",
+    "lanSuccessCreateIDProofSuccessfully": "ఐడి ప్రూఫ్‌ను విజయవంతంగా సృష్టించండి",
+    "lanErrorInvalidInformation": "చెల్లని సమాచారం",
+    "lanErrorCreateIDProofFailed": "ఐడి ప్రూఫ్ సృష్టించడం విఫలమైంది",
+
+    
+    "lanTitleUpdateIDProof": "ఐడిప్రూఫ్‌ను నవీకరించండి",
+    "lanLabelProfileIDType": "ఐడి రకం:",
+    "lanLabelProfileID": "ఐడి #:",
+    "lanLabelDateOfBirth": "పుట్టిన తేది",
+    "lanErrorYouHaveThisIDTypeInYourList": "మీ జాబితాలో మీకు ఈఐడి రకం ఉంది",
+    "lanErrorCardNumberIsRequired": "కార్డు సంఖ్య అవసరం",
+    "lanSuccessUpdateIDProofSuccessfully": "ఐడి ప్రూఫ్‌ను విజయవంతంగా నవీకరించండి",
+    "lanErrorInvalidIDProofDetails": "చెల్లని ఐడి ప్రూఫ్ వివరాలు",
+    "lanErrorUpdateIDProofFailed": "నవీకరణ ఐడి ప్రూఫ్ విఫలమైంది",
+
+
+    "lanLabelIDNo": "ఐడి సంఖ్య (#)",
+    "lanLabelIDType": "ఐడి రకం",
+    "lanLabelProfileStatus": "స్థితి",
+
+
+    "lanTitleProfileAddress": "ప్రొఫైల్ చిరునామా",
+    "lanLabelProfileAddress": "చిరునామా",
+    "lanLabelSelectCountry": "దేశాన్ని ఎంచుకోండి",
+    "lanLabelSelectYourCountry": "మీ దేశాన్ని ఎంచుకోండి",
+    "lanLabelSelectYourState": "మీ రాష్ట్రాన్ని ఎంచుకోండి",
+
+
+    "lanErrorPropertyImageIsRequired": "ఆస్తి చిత్రం అవసరం",
+
+
+    "lanErrorActiveRoomsAndOnHoldRoomsShouldBeLessThanTotalRooms": "యాక్టివ్ రూములు మరియు ఆన్‌హోల్డ్ రూములు మొత్తం గదుల కంటే తక్కువగా ఉండాలి",
+
+
+    "lanErrorPleaseAddNearestAreaToSubmit": "సమర్పించడానికి సమీప ప్రాంతాన్ని జోడించండి",
+
+
+    "lanErrorYouHaveToMaitainAtleastOneExistingImage": "మీరు ఇప్పటికే ఉన్న ఒక చిత్రాన్ని నిర్వహించాలి",
+    "lanErrorPleaseSelectImagesToDelete": "దయచేసి తొలగించడానికి చిత్రాలను ఎంచుకోండి",
+    "lanTitleCreateLocation": "స్థానాన్ని సృష్టించండి",
+    "lanLabelSelectLocationsList": "స్థానాల జాబితాను ఎంచుకోండి",
+
+
+    "lanErrorPleaseAddPriceDetails": "దయచేసి ధర వివరాలను జోడించండి",
+    "lanErrorPleaseAddMinBasePrice": "దయచేసి మిన్ బేస్ ధరను జోడించండి",
+    "lanErrorPleaseAddFullRefundCancelTimeInPriceScreen": "దయచేసి ధర స్క్రీన్‌లో పూర్తి వాపసు రద్దు సమయాన్ని జోడించండి",           
+    "lanErrorPleaseAddRefundCancelTimeInPriceScreen": "దయచేసి ధర స్క్రీన్‌లో వాపసు రద్దు చేసే సమయాన్ని జోడించండి",
+    "lanErrorPleaseAddRefundCancelPercentageInPriceScreen": "దయచేసి ధర స్క్రీన్‌లో వాపసు రద్దు శాతాన్ని జోడించండి",
+    "lanErrorPleaseAddAmenities": "సదుపాయాలు",
+    "lanErrorPleaseAddServices": "సేవలు",
+    "lanErrorPleaseAddGuestRules": "దయచేసి అతిథి నియమాలను జోడించండి",
+
+
+    "lanErrorAllFieldsAreMandatory": "అన్ని ఫీల్డ్‌లు తప్పనిసరి",
+
+
+    "lanErrorNoBlockedDates": "నిరోధించిన తేదీలు లేవు",
+
+
+    "lanTitleUpdateBlockedDates": "నిరోధించిన తేదీలను నవీకరించండి",
+    "lanLabelBlockedDatesEdit": "నిరోధించిన తేదీలు సవరించండి",
+
+
+    "lanLabelBlockingType": "రకాన్ని నిరోధించడం",
+
+
+    "lanLabelNoOfActiveRooms": "యాక్టివ్ రూములు",
+    "lanLabelNoOfOnHoldRooms": "ఆన్హోల్డ్ రూములు",
+    "lanLabelTotalRooms": "మొత్తం గదులు",
+    "lanLabelPrice": "ధర",
+
+
+    "lanLabelLoading": "లోడ్",
+
+
+    "lanLabelRatingsAndReviewsList": "రేటింగ్స్ మరియు సమీక్షల జాబితా",
+
+
+    "lanTitleAddNearestLocations": "సమీప స్థానాలను జోడించండి",
+    "lanTitlePleaseAddNearestArea": "దయచేసి సమీప ప్రాంతాన్ని జోడించండి",
+    "lanTitleNearestAreas": "సమీప ప్రాంతాలు",
+
+
+    "lanErrorPropertyInfoCreateFailed": "ఆస్తి సమాచారం సృష్టించడం విఫలమైంది",
+
+    
+    "lanTitleCreatePropertyInfo": "ఆస్తి సమాచారం సృష్టించండి",
+    "lanTitlePropertyInfoCreate": "ఆస్తి సమాచారం సృష్టించండి",
+
+    "lanTitleCheckInBookings": "చెక్ఇన్ బుకింగ్స్",
+    "lanLabelCheckOutBookings": "చెక్ అవుట్ బుకింగ్స్",
+    "lanLabelCancelledBookings": "రద్దు చేసిన బుకింగ్‌లు",
+    "lanLabelBookingAmounts": "బుకింగ్ మొత్తాలు",
+
+    "lanLabelPropertyListed": "ఆస్తి జాబితా చేయబడింది",
+    "lanLabelYouHave": "మీరు కలిగి ఉన్నారు",
+
+    "lanActionCreateBooking": "బుకింగ్ సృష్టించండి",
+
+    "lanLabelPropertyCapacity": "ఆస్తి సామర్థ్యం",
+
+    "lanButtonBlockedDates": "బ్లాక్ చేసిన తేదీలు",
+    "lanButtonPropertyInfos": "ఆస్తి సమాచారం",
+
+    "lanLabelNoBlockedDates": "నిరోధించిన తేదీలు లేవు",
+
+    "lanErrorMinBasePriceIsRequired": "వీక్‌డే మిన్ బేస్ ధర అవసరం",
+    "lanErrorBasePriceIsRequired": "వీక్‌డే బేస్ ధర అవసరం",
+    "lanErrorFullRefundCancelTimeIsRequired": "పూర్తి వాపసు రద్దు సమయం అవసరం",
+    "lanErrorRefundCancelTimeIsRequired": "వాపసు రద్దు సమయం అవసరం",
+    "lanErrorRefundCancelTimeShouldBeLessThanFullRefundCancelTime": "వాపసు రద్దు సమయం పూర్తి వాపసు రద్దు సమయం కంటే తక్కువగా ఉండాలి",
+    "lanErrorRefundCancelPercentageIsRequired": "వాపసు రద్దు శాతం అవసరం",
+    "lanErrorAppPercentageIsRequired": "అనువర్తన శాతం",
+    "lanErrorAppPgPercentageIsRequired":"అనువర్తన చెల్లింపు గేట్‌వే శాతం అవసరం",
+    "lanLabelWeekendPriceIsRequired": "వీకెండ్ ధర",
+    "lanErrorMinBasePrice2IsRequired": "వీక్‌డే మిన్ బేస్ ప్రైస్ 2 అవసరం",
+    "lanErrorMinBasePrice3IsRequired": "వీక్‌డే మిన్ బేస్ ప్రైస్ 3 అవసరం",
+    "lanErrorMinBasePrice4IsRequired": "వీక్‌డే మిన్ బేస్ ప్రైస్ 4 అవసరం",
+    "lanErrorWeekEndBasePriceIsRequired": "వీకెండ్ బేస్ ధర అవసరం",
+    "lanErrorWeekEndMinBasePriceIsRequired": "వీకెండ్ మిన్ బేస్ ధర అవసరం",
+    "lanErrorWeekEndMinBasePrice2IsRequired": "వీకెండ్ మిన్ బేస్ ప్రైస్ 2 అవసరం",
+    "lanErrorWeekEndMinBasePrice3IsRequired": "వీకెండ్ మిన్ బేస్ ప్రైస్ 3 అవసరం",
+    "lanErrorWeekEndMinBasePrice4IsRequired": "వీకెండ్ మిన్ బేస్ ప్రైస్ 4 అవసరం",
+    "lanTitleAddPrice": "ధరను జోడించండి",
+    "lanLabelServiceCharges": "సేవా రుసుములు",
+    "lanLabelOtherCharges": "ఇతర ఛార్జీలు",
+    "lanLabelCgstPercentage": "CGST(%)",
+    "lanLabelSgstPercentage": "SGST(%)",
+    "lanLabelWeekDayDiscountPercentage": "వీక్‌డే డిస్కౌంట్ (%)",
+    "lanLabelWeekEndDiscountPercentage": "వీకెండ్ డిస్కౌంట్ (%)",
+    "lanLabelMinBillingType": "కనిష్ట బిల్లింగ్ రకం",
+    "lanLabelBaseDefaultPriority": "బేస్ డిఫాల్ట్ ప్రాధాన్యత",
+    "lanLabelMinBaseDefaultPriority": "కనిష్ట బేస్ డిఫాల్ట్ ప్రాధాన్యత",
+    "lanLabelAllowMidNightCheckOut": "మిడ్ నైట్ చెక్-అవుట్ అనుమతించాలా?",
+    "lanLabelWeekDayPrice": "వీక్‌డే ధర",
+    "lanLabelWeekdayBasePrice": "వారపు రోజు ధర",
+    "lanLabelDiscount":"డిస్కౌంట్",
+    "lanLabelSPAmount": "ఎస్పీ మొత్తం",
+    "lanLabelWeekdayMinBasePrice1": "వారాంతపు కనీస బేస్ ధర 1",
+    "lanLabelWeekdayBasePrice2": "వారపు రోజు కనీస బేస్ ధర 2",
+    "lanLabelWeekdayMinBasePrice2": "వారపు రోజు కనీస బేస్ ధర 2",
+    "lanLabelWeekendMinBasePrice": "వీకెండ్ మిన్ బేస్ ధర",
+    "lanLabelWeekendMinBasePrice1": "వీకెండ్ మిన్ బేస్ ధర 1", 
+    "lanLabelWeekendMinBasePrice2": "వీకెండ్ మిన్ బేస్ ధర 2",
+    "lanButtonSave": "సేవ్",
+
+    "lanTitlePriceEdit": "ధర సవరణ",
+
+    "lanErrorDeleteFailed": "తొలగించు విఫలమైంది",
+    "lanErrorPleaseSelectToDelete": "దయచేసి తొలగించు ఎంచుకోండి",
+
+    "lanTitleCreateBooking": "బుకింగ్ సృష్టించండి",
+
+    "lanLabelPropertyInfosListed": "ఆస్తి సమాచారం జాబితా చేయబడింది",
+
+    "lanLabelWeekEndPrice": "ీక్ఎండ్ ధర",
+    "lanLabelWeekendBasePrice": "వీకెండ్ బేస్ ధర",
+
+    "lanTitleAmenitiesCreateEdit": "సౌకర్యాలు సవరణను సృష్టించండి",
+
+    "lanTitleAmenityCreate": "సౌలభ్యం సృష్టించు",
+
+    "lanButtonPriceDetails": "ధర వివరాలు",
+
+    "lanButtonStatus": "స్థితి",
+
+    "lanButtonOTPVerify": "OTP ధృవీకరించండి",
+    "lanButtonSignIn": "సైన్ ఇన్ చేయండి",
+
+    "lanTitleNotifications": "ప్రకటనలు",
+    "lanButtonDelete": "తొలగించు",
+    "lanButtonCancel": "రద్దు",
+    "lanLabelContact": "సంప్రదించండి",
+    "lanLabelNoNotificationsTillNow": "ఇప్పటి వరకు నోటిఫికేషన్‌లు లేవు!",
+    "lanErrorPleaseClickOnGetDetailsToGetUserDetails": "వినియోగదారు వివరాలను పొందడానికి దయచేసి వివరాలను పొందండి క్లిక్ చేయండి",
+    "lanErrorPleaseProvideAValidMobileNumber": "దయచేసి చెల్లుబాటు అయ్యే మొబైల్ నంబర్‌ను అందించండి",
+    "lanErrorPleaseProvideMobileNumber": "దయచేసి మొబైల్ నంబర్‌ను అందించండి",
+    "lanErrorPleaseProvideAValidEmail": "దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్‌ను అందించండి",
+    "lanErrorPleaseClickOnMobileNumberGetDetailsToGetUserDetails": "వినియోగదారు వివరాలను పొందడానికి మొబైల్ నంబర్ పొందండి వివరాలపై క్లిక్ చేయండి",
+    "lanErrorPleaseClickOnEmailGetDetailsToGetUserDetails": "వినియోగదారు వివరాలను పొందడానికి ఇమెయిల్ గెట్ వివరాలపై క్లిక్ చేయండి",
+    "lanErrorPleaseProvideAName": "దయచేసి పేరు ఇవ్వండి",
+    "lanErrorRoomBookedSuccessfully": "గది విజయవంతంగా బుక్ చేయబడింది",
+    "lanErrorBookingFailedTryAgain": "బుకింగ్ విఫలమైంది, మళ్ళీ ప్రయత్నించండి",
+    "lanErrorPleaseProvideUserNameAndMobileNumberToBook": "దయచేసి బుక్ చేయడానికి వినియోగదారు పేరు మరియు మొబైల్ నంబర్‌ను అందించండి",
+    "lanErrorInvalidNumberPleaseProvideAValidMobileNumber": "చెల్లని సంఖ్య! దయచేసి చెల్లుబాటు అయ్యే మొబైల్ నంబర్‌ను అందించండి",
+    "lanErrorPleaseEnterEmail": "దయచేసి ఇమెయిల్‌ను నమోదు చేయండి",
+    "lanErrorPleaseEnterAValidEmail": "దయచేసి సరైన ఈమెయిల్ ఇవ్వండి",
+    "lanTitleConfirmBooking": "బుకింగ్ నిర్ధారించండి",
+    "lanButtonBookNow": "ఇప్పుడే నమోదు చేసుకోండి!",
+    "lanButtonGetDetails": "వివరాలు పొందండి",
+    "lanUserDetailsNotFoundToCreateANewUserAndConfirmThisBookingClickOnBookNow": "వినియోగదారు వివరాలు కనుగొనబడలేదు. క్రొత్త వినియోగదారుని సృష్టించడానికి మరియు ఈ బుకింగ్‌ను నిర్ధారించడానికి, ఇప్పుడు పుస్తకంపై క్లిక్ చేయండి",
+    "lanLabelName": "పేరు",
+
+    "lanButtonCheckIn": "చెక్ ఇన్ చేయండి",
+    "lanButtonCheckOut": "తనిఖీ చేయండి",
+    "lanButtonRoomsGuests": "రూములు / గెస్ట్స్",
+    "lanLabelGuests": "గెస్ట్స్",
+    "lanLabelChildren": "పిల్లలు",
+    "lanLabelUptoTwelveYears": "12 సంవత్సరాల వరకు",
+    "lanLabelRooms": "రూములు",
+    "lanLabelHurryUpOnly": "త్వరగా!!మాత్రమే",
+    "lanLabelRoomsLeft": "గదులు ఎడమ",
+    "lanErrorCheckOutDateShouldNotBeLessThanCheckInDate": "చెక్ అవుట్ తేదీ చెక్ఇన్ తేదీ కంటే తక్కువ ఉండకూడదు",
+    "lanErrorServiceNotAvailableOnThisDateChooseDifferentOne": "ఈ తేదీలో సేవ అందుబాటులో లేదు, వేరేదాన్ని ఎంచుకోండి",
+    "lanErrorNoRoomsAvailable": "గదులు అందుబాటులో లేవు",
+
+    "lanButtonCheckInTime": "చెక్ఇన్ సమయం:",
+    "lanButtonCheckOutTime": "చెక్ అవుట్ సమయం:",
+    "lanButtonDaysHrs": "రోజులు / గంటలు",
+
+    "lanErrorReachedMaximumLimitOfAdults":"పెద్దల గరిష్ట పరిమితిని చేరుకుంది",
+    "lanErrorReachedMaximumLimitOfChilds":"పిల్లల గరిష్ట పరిమితిని చేరుకుంది",
+    "lanErrorReachedMaximumLimitOfRooms":"గదుల గరిష్ట పరిమితిని చేరుకుంది",
+
+    "lanButtonSelectADate": "తేదీని ఎంచుకోండి",
+    "lanButtonSelectCheckOutDate": "దయచేసి చెక్అవుట్ తేదీని ఎంచుకోండి",
+    "lanLabelCheckoutDateShouldBeGreaterThanCheckInDate": "చెక్ అవుట్ తేదీ చెక్ఇన్ తేదీ కంటే ఎక్కువగా ఉండాలి",
+    "lanButtonContinue": "కొనసాగించు",
+
+    "lanLabelEmpty": "ఖాళీ!",
+    "lanLabelNoMessages": "సందేశాలు లేవు!",
+
+    "lanTitleList": "జాబితా",
+    "lanLabelNoData": "సమాచారం లేదు",
+
+    "lanErrorPleaseSelectPaymentMode": "దయచేసి చెల్లింపు మోడ్‌ను ఎంచుకోండి",
+    "lanErrorBookingUpdateFailedTryAgain": "బుకింగ్ నవీకరణ విఫలమైంది, మళ్ళీ ప్రయత్నించండి!",
+
+    "lanTitleBlockedDatesView": "నిరోధించిన తేదీల వీక్షణ",
+    "lanButtonBookings": "బుకింగ్స్",
+    "lanButtonAmount": "మొత్తం",
+    "lanButtonOffers": "ఆఫర్స్",
+    "lanButtonMessages": "సందేశాలు",
+
+    "lanTitleFavourites": "ఇష్టమైన",
+    "lanLabelNoFavourites": "ఇష్టమైనవి లేవు!",
+
+    "lanTitleFavouriteView": "ఇష్టమైన వీక్షణ",
+
+    "lanTitleGuestRules": "అతిథి నియమాలు",
+
+    "lanLabelDetailsFromGuest": "అతిథి నుండి వివరాలు",
+    "lanLabelHouseRules": "హౌస్ రూల్స్",
+
+    "lanButtonAddGuestRule": "అతిథి నియమాన్ని జోడించండి",
+    "lanButtonNoOfGuestsAllowed": "అతిథులు అనుమతించబడలేదు",
+    "lanButtonChildrenTwotoTwelveYears": "పిల్లలు (2 - 12)",
+    "lanButtonPets": "పెంపుడు జంతువులు",
+    "lanButtonSmokers": "ధూమపానం",
+
+    "lanTitleGuestRuleView": "అతిథి నియమ వీక్షణ",
+
+    "lanButtonSendMessage": "సందేశము పంపుము",
+    "lanButtonMessage": "సందేశం",
+    "lanButtonSend": "పంపు",
+    "lanErrorPleaseEnterMessage": "దయచేసి సందేశాన్ని నమోదు చేయండి",
+    "lanErrorSendMessageFailed": "సందేశం పంపడం విఫలమైంది",
+
+    "lanLabelNoMessagesTillNow": "ఇప్పుడు వరకు సందేశాలు లేవు!",
+    
+    "lanErrorDeleteMessageFailed": "సందేశాన్ని తొలగించండి విఫలమైంది",
+    "lanTitleReadMessage": "సందేశం చదవండి",
+    "lanLabelFrom": "నుండి:",
+    "lanLabelMessage": "సందేశం:",
+    "lanLabelTo": "టు:",
+    "lanLabelMessageOn": "సందేశం ఆన్‌లో ఉంది:",
+    "lanLabelAreYouSureYouWantToDelete": "మీరు తొలగించాలనుకుంటున్నారా ఖచ్చితంగా?",
+
+    "lanTitlePropertyInfoPricing": "ఆస్తి సమాచారం ధర",
+    "lanLabelNoProperties": "గుణాలు లేవు!",
+
+    "lanLabelMinimumBaseUnitPrice": "కనిష్ట బేస్ యూనిట్ ధర",
+    "lanLabelDefaultCheckInTime": "డిఫాల్ట్ చెక్ఇన్ సమయం",
+    "lanLabelDefaultCheckOutTime": "డిఫాల్ట్ చెక్అవుట్ సమయం",
+
+    "lanButtonEdit": "మార్చు",
+    "lanLabelTypeOfPlace": "స్థలం రకం",
+    "lanLabelLocation": "స్థానం",
+    "lanButtonMap": "మ్యాప్",
+    "lanLabelNoGuestsAllowed": "అతిథులు అనుమతించబడరు",
+    "lanLabelNoOfBedRooms": "బెడ్ రూముల సంఖ్య",
+    "lanButtonCheckInCheckOutTime": "చెక్ఇన్ చెక్ అవుట్ సమయం",
+    "lanButtonProceed": "కొనసాగండి",
+
+    "lanTitleServiceCreate": "సేవ సృష్టించండి",
+    "lanLabelSelectServiceType": "సేవా రకాన్ని ఎంచుకోండి",
+
+    "lanButtonNext": "తరువాత",
+
+    "lanButtonForgotPassword": "పాస్వర్డ్ మర్చిపోయారా",
+    "lanLabelOr": "లేదా",
+    "lanButtonSignUp": "చేరడం",
+
+    "lanLabelOTPVerify": "OTP ధృవీకరించండి",
+
+    "lanErrorPINIsRequired": "పిన్ అవసరం",
+    "lanLabelSuccessfullyRegistered": "విజయవంతంగా నమోదు చేయబడింది",
+    "lanLabelYouAlreadyHaveAnAccountWithThisMobileNumberOrEmail": "మీకు ఇప్పటికే ఈ మొబైల్ నంబర్ లేదా ఇమెయిల్‌తో ఖాతా ఉంది",
+    "lanLabelUserIdAlreadyExistPleaseUseDifferentUserId": "వినియోగదారు ఐడి ఇప్పటికే ఉంది. దయచేసి వేరే యూజర్ ఐడిని ఉపయోగించండి",
+    "lanLabelPleaseVerifyYourMobileNumberAndEmailBeforeYouSignUp": "మీరు సైన్ అప్ చేయడానికి ముందు దయచేసి మీ మొబైల్ నంబర్ మరియు ఇమెయిల్‌ను ధృవీకరించండి",
+    "lanLabelMobileNumberAlreadyExistsUseDifferentOne": "మొబైల్ నంబర్ ఇప్పటికే ఉంది, భిన్నమైనదాన్ని ఉపయోగించండి",
+    "lanLabelEmailAlreadyExistsUseDifferentOne": "ఇమెయిల్ ఇప్పటికే ఉంది, భిన్నమైనదాన్ని ఉపయోగించండి",
+    "lanLabelRegistrationFailed": "నమోదు విఫలమైంది",
+    "lanButtonBecomeHost": "హోస్ట్ అవ్వండి",
+    "lanLabelThankyouForPartneringWithUs": "మాతో భాగస్వామ్యం చేసినందుకు ధన్యవాదాలు",
+    "lanLabelOurTeamWillGetBackToYouSoon": "మా బృందం త్వరలో మిమ్మల్ని సంప్రదిస్తుంది",
+    "lanLabelMobileNumberAlreadyExistsPleaseLogin": "మొబైల్ నంబర్ ఇప్పటికే ఉంది. దయచేసి లాగిన్ అవ్వండి",
+    "lanLabelEmailAlreadyExistsPleaseLogin": "ఈమెయిలు ఇదివరకే ఉంది. దయచేసి లాగిన్ అవ్వండి",
+    "lanLabelYourRequestIsUnderProgressOurTeamWillGetBackToYouSoon": "మీ అభ్యర్థన పురోగతిలో ఉంది. మా బృందం త్వరలో మిమ్మల్ని సంప్రదిస్తుంది",
+
+    "lanTitleTimings": "టైమింగ్స్",
+
+    "lanLabelTripleApartment": "ట్రిపుల్ అపార్ట్మెంట్",
+    "lanLabelFullApartment": "పూర్తి అపార్ట్మెంట్",
+
+    "lanLabelNoDataFound": "డేటా కనుగొనబడలేదు!",
+
+    "lanLabelSofa": "సోఫా",
+
+    "lanErrorSelectPaymentMode": "చెల్లింపు స్థితిని ఎంచుకోండి",
+
+    "lanTitleDashboard": "డాష్బోర్డ్",
+
+    "lanTitleForgotPasswordScreen": "పాస్వర్డ్ స్క్రీన్ మర్చిపోయారా",
+
+    "lanButtonResendOTP": "OTP ని తిరిగి పంపండి",
+
+    "lanLabelTypeOfRent": "అద్దె రకం",
+    "lanTitleTypeOfRent": "అద్దె రకం",
+
+    "lanTitleTiming": "టైమింగ్",
+
+    "lanLabelSelectCheckOutDate": "చెక్అవుట్ తేదీని ఎంచుకోండి",
+
+    "lanTitleNearestAreasList": "సమీప ప్రాంతాల జాబితా",
+    "lanTitleNearestAreasUpdate": "సమీప ప్రాంతాల నవీకరణ",
+
+    "lanTitleUsersList": "వినియోగదారుల జాబితా",
+
+    "lanTitleHotelsRatingsAndReviews": "రేటింగ్‌లు మరియు సమీక్షలు",
+
+    "lanButtonPriceEdit": "ధర సవరణ",
+    "lanButtonWeekEndPrice": "వీక్ఎండ్ ధర",
+
+    "lanButtonCreatePrice":"ధర సృష్టించండి",
+    "lanSelectBlockingType": "నిరోధించే రకాన్ని ఎంచుకోండి",
+    "lanLabelServerNotResponding": "సర్వర్ స్పందించడం లేదు",
+    "lanAppTitle": "AM నుండి PM హోస్ట్",
+    "lanButtonReload":"రీలోడ్",
+    "lanErrorPaidAmenityPriceIsRequired": "చెల్లించిన సౌకర్యాల ధర అవసరం",
+    "lanErrorPaidServicePriceIsRequired": "చెల్లింపు సేవ ధర అవసరం",
+    "lanLabelAllFieldsRequired": "అన్ని ఫీల్డ్‌లు అవసరం",
+    "lanLabelUsersList": "వినియోగదారుల జాబితా",
+    "lanLabelHour": "గంటలు",
+    "lanLabelHours": "గంటలు",
+    "lanLabelDays":"రోజులు",
+    "lanLabelSelectLocationList":"స్థాన జాబితాను ఎంచుకోండి",
+    "lanLabelGetLocation":"స్థానం పొందండి",
+
+    "lanErrorPleaseChooseVideoLessThanSixtySeconds": "దయచేసి 60 సెకన్ల కన్నా తక్కువ వీడియోను ఎంచుకోండి",
+    "lanButtonLat&Long": "లాట్ & లాంగ్"
+
+}
+
+
+
+
+

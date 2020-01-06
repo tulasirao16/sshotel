@@ -1,0 +1,43 @@
+ul.pagination li {
+    padding-left: 9px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    padding-right: 9px;
+    padding-top: 0;
+    margin-right: 2px;
+    padding-bottom: 0;
+}
+
+ul.pagination li.disabled {
+    background: #eef5fb;
+}
+
+ul.pagination li.disabled a {
+    color: #333;
+    font-size: 15px;
+}
+
+ul.pagination li.active {
+    background: #01a2a1;
+}
+
+ul.pagination li.active a {
+    color: #fff !important;
+    font-size: 15px;
+}
+
+.create-locations label{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.create-locations label {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.create-locations input:not([type]), .create-locations input[type=text], 
+.create-locations input[type=date], .create-locations input[type=datetime-local], 
+.create-locations input[type=number], input[type=tel], .create-locations input[type=time], 
+.create-locations input[type=url], .create-locations input[type=email], .create-locations input[type=search], 
+.create-locations input[type=password] {
+    font-family: 'Montserrat', sans-serif;
+}

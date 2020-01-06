@@ -1,0 +1,4 @@
+/**
+ * forbidden access
+ */
+import 'bootstrap'

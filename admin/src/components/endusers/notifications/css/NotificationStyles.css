@@ -1,0 +1,20 @@
+.enduser input[type=text], .enduser textarea, .enduser .card-header h6, .enduser .media-heading a, .eu-font {
+    font-family: 'Montserrat', sans-serif;
+}
+.breadcrumb.eu.eu-font .breadcrumb-item, .enduser .table .thead-light th, .enduser .table-flush tbody tr td,
+.enduser small, .enduser h5.text-sm, .enduser h5.card-title , .enduser h4.text-sm,{
+    font-family: 'Montserrat', sans-serif;
+}
+.modalOne p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: darkslategrey !important;
+}
+.modalOne .btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: '#ffffff'
+}
+.bottom-line{
+    border-bottom: 1px solid #f2f3f2;
+}

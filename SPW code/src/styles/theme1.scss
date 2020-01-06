@@ -1,0 +1,56 @@
+//header
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+$header_Fontcolor: #fff;
+$login_background:#ccc;
+$header_background: #30394a;
+$header_anchor_fontsize:16px;
+$header_anchor_textdecoration: none;
+$header_anchor_fontcolor:#fff;
+$header_active_fontweight:600;
+$header_changelang_font-size:11px;
+$header_changelang_cursor: pointer;
+//body
+//accounts-main
+$accounts_mcm_texttransform:uppercase;
+$accounts_mcmaccount_redcolor:#ff0000;
+$accounts_citibankheader_background:#f26c47;
+$accounts_citibankheader_color: #fff;
+$accounts_hsbc_capitaloneheader_background: #d4eddd;
+$accounts_hsbc_capitaloneheader_color: #20532a;
+$accounts_tmobileheader_background: #f4f5f9;
+$accounts_tmobileheader_color:#747474;
+$accounts_btnpaydetails_focus_bgcolor: #ffffff;
+$accounts_btnpaydetails_hover_bgcolor:#ebebeb;
+$accounts_paynow_focus_active_color: #fff;
+$accounts_paynow_focus_active_bgcolor: #3e4b5c;
+$accounts_paynow_hover_color: #fff;
+$accounts_paynow_hover_bgcolor:#71859f;
+$accounts_boxfooter_anchor_text-decoration: underline;
+//accountsviews
+$accountviews_tabgroups_anchor_color:#000;
+$accountviews_tabgroups_anchor_fontsize:15px;
+$accountviews_tabgroups_anchor_fontweight:600;
+$accountviews_btntab_background: #dddddd;
+$accountviews_activetab_background: #fff;
+//balancesummary-main
+$balancesummary_paneltext_fontweight:600;
+//main
+$main_bodycontent_background:#eee;
+//payment-history
+$paymenthistorymain_fontsize: 13px;
+$paymenthistorypending_color: #FD9A40;
+$paymenthistorycomplete_color:#2F7D33;
+$paymenthistorytableheader_bgcolor: #EEEEEE;
+//payment-plan-main
+$paymentplan_tableheader_bgcolor: #EEEEEE;
+//Footer
+$footer_background: #cccccc;
+$footer_anchor-color: #000;
+$footer_anchor_textdecoration: none;
+$footer_anchor_texttransform: uppercase;
+$footer_anchor_fontsize: 15px;
+$footer_anchor_font-weight: 600;
+$footer_privacy-label_fontsize:9px;

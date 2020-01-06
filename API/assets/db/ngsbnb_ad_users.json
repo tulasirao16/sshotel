@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "ADUID01",
+        "displayName": "Super Admin",
+        "firstName": "Super",
+        "lastName": "Admin",
+        "name": "Super Admin",
+        "address": "Snehapuri Colony, Tarnaka, Hyderabad, 500007",
+        "userAccount": "superadmin",
+        "mobileNumber": "9012345678",
+        "mbnVerifyStatus": "Verified",
+        "email": "superadmin@sharespace.com",
+        "emailVerifyStatus": "Verified",
+        "password": "e6fa672419cbbe6ee618dec1cd29f578dc56965b950ff94fc9cc81950ed354e89d8c5c324131bbbaf86aa3bf3fdc7dd488c23d6f589858cdb5c6071d0d8728d9",
+        "passwordSalt": "8aa8f6fa10c666641c71f42a157dae1f",
+        "userRole": "Super Admin",
+        "userStatus": "Active",
+        "preferences": {
+            "defaultLanguage": "English",
+            "defaultTimezone": "IST - Indian Standard Time(UTC+05:30)",
+            "defaultCurrency": "INR - Indian Rupee(₹)",
+            "currencyFormat": "#,###.##",
+            "dateFormat": "MMM DD, YYYY",
+            "rowsPerPage": "20",
+            "allowNotifications": true
+        },
+        "isDeleted": false,
+        "createdBy": "superadmin",
+        "createdAt": 1552437148000,
+        "createdOn": "2019-03-13 06:02:28",
+        "updatedBy": "superadmin",
+        "updatedAt": 1552437148000,
+        "updatedOn": "2019-03-13 06:02:28"
+    }
+]

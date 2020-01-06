@@ -1,0 +1,26 @@
+.enduser input[type=text], .enduser textarea, .enduser .card-header h6, .enduser .media-heading a, .eu-font {
+    font-family: 'Montserrat', sans-serif;
+}
+.breadcrumb.eu .breadcrumb-item {
+    font-family: 'Montserrat', sans-serif;
+}
+.label-lg {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.875rem;
+    color: #9a9a9a;
+}
+.sidebar-card {
+    box-shadow: 0 0 2rem 0 transparent;
+}
+.mobile-font {
+    font-size: 14px;
+    color: grey;
+
+}
+.mobile-font-big {
+    font-size: 16px;
+    color: #01a4a2;
+}
+.payment_mobileView .card-payment {
+    margin-top: 40px;
+}

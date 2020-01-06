@@ -1,0 +1,41 @@
+.eu-inbox .bg-gray {
+    background: #e6e6e4!important;
+    border-radius: 4px;
+}
+.main-content-inbox,
+.main-content-view-msg-eu,
+.main-content-send-msg-eu,
+.enduser .msg  {
+    font-family: 'Montserrat', sans-serif;
+}
+.eu-inbox .mail_list .list-group-item .msg {
+    margin-bottom: 0px;
+    font-size: 0.875em;
+    color: #939393;
+}
+.eu-inbox .mail_list .list-group-item {
+    padding:5px
+}
+.eu-inbox .avatar {
+    font-size: 0.875rem;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    margin-top: 3px;
+}
+.enduser input[type=text], .enduser textarea, .enduser .card-header h6, .enduser .media-heading a, .eu-font {
+    font-family: 'Montserrat', sans-serif;
+}
+.breadcrumb.eu.eu-font .breadcrumb-item {
+    font-family: 'Montserrat', sans-serif;
+}
+.modalOne p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: darkslategrey !important;
+}
+.modalOne .btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500 !important;
+    color: '#ffffff'
+}

@@ -1,0 +1,20 @@
+@media only screen and (max-width: 767px) {
+    .main-content.eu-bookingHistory .card-header .h2.text-primary.eu-font {
+        padding-left: 1rem!important;
+    }
+    .main-content.eu-bookingHistory .row-data-style {
+        padding-top: 1rem!important;
+    }
+    .view-booking.enduser .card-footer.hotelDetails .card-body-footer {
+        padding-bottom: 1rem;
+    }
+}
+.price-text-confirm-booking {
+    font-size: 20px !important;
+}
+.error {
+    color: red;
+}
+.eu-font.form-control.input_error {
+    border: 1px solid red;
+}

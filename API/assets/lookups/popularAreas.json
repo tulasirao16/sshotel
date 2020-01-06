@@ -1,0 +1,95 @@
+{
+    "areas": [
+        {
+            "_id": "PAIYC001",
+            "area": "Tarnaka",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zip": "500076",
+            "countryCode": "IN",
+            "stateCode": "TS",
+            "areaOrder": 1,
+            "latitude" : 17.4301,
+            "longitude" : 78.5416
+        },
+        {
+            "_id": "PAIYC002",
+            "area": "Secunderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zip": "500003",
+            "countryCode": "IN",
+            "stateCode": "TS",
+            "areaOrder": 2,
+            "latitude" : 17.442608,
+            "longitude" : 78.485534
+        },
+        {
+            "_id": "PAIYC003",
+            "area": "Uppal",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zip": "500013",
+            "countryCode": "IN",
+            "stateCode": "TS",
+            "areaOrder": 3,
+            "latitude" : 17.3984,
+            "longitude" : 78.5583
+        },
+        {
+            "_id": "PAIYC004",
+            "area": "Jubilee Hills",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zip": "500033",
+            "countryCode": "IN",
+            "stateCode": "TS",
+            "areaOrder": 4,
+            "latitude" : 17.4326,
+            "longitude" : 78.4071
+        },
+        {
+            "_id": "PAIYC005",
+            "area": "Banjara Hills",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zip": "500034",
+            "countryCode": "IN",
+            "stateCode": "TS",
+            "areaOrder": 5,
+            "latitude" : 17.4169,
+            "longitude" : 78.4387
+        },
+        {
+            "_id": "PAIYC006",
+            "area": "LB Nagar",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zip": "500035",
+            "countryCode": "IN",
+            "stateCode": "TS",
+            "areaOrder": 6,
+            "latitude" : 17.3457,
+            "longitude" : 78.5522
+        },
+        {
+            "_id": "PAIYC007",
+            "area": "Nacharam",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zip": "502334",
+            "countryCode": "IN",
+            "stateCode": "TS",
+            "areaOrder": 7,
+            "latitude" : 17.4337,
+            "longitude" : 78.5545
+        }
+    ]
+}

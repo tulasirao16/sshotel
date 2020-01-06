@@ -1,0 +1,119 @@
+[
+    {
+        "amenityId": "AMNT-WIFI",
+        "amenityOrder" : 1,
+        "name": "Wifi",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/wifi.png"
+    },
+    {
+        "amenityId": "AMNT-CPK",
+        "amenityOrder" : 2,
+        "name": "Car Parking",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/icon8.png"
+    },
+    {
+        "amenityId": "AMNT-TV",
+        "amenityOrder" : 3,
+        "name": "TV",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/television.png"
+    },
+    {
+        "amenityId": "AMNT-GSR",
+        "amenityOrder" : 4,
+        "name": "Geyser",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/geyser.png"
+    },
+    {
+        "amenityId": "AMNT-BRKF",
+        "amenityOrder" : 5,
+        "name": "Breakfast",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/breakfast.png"
+    },
+    {
+        "amenityId": "AMNT-WD",
+        "amenityOrder" : 6,
+        "name": "Welcome Drink",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/icon13.png"
+    },
+    {
+        "amenityId": "AMNT-SWM",
+        "amenityOrder" : 7,
+        "name": "Swimming Pool",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/icon10.png"
+    },
+    {
+        "amenityId": "AMNT-GYM",
+        "amenityOrder" : 8,
+        "name": "Gym",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/icon11.png"
+    },
+    {
+        "amenityId": "AMNT-LCH",
+        "amenityOrder" : 9,
+        "name": "Lunch",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/icon9.png"
+    },
+    {
+        "amenityId": "AMNT-DNR",
+        "amenityOrder" : 10,
+        "name": "Dinner",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/icon9.png"
+    },
+    {
+        "amenityId": "AMNT-LDR",
+        "amenityOrder" : 11,
+        "name": "Laundry",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/laundry.png"
+    },
+    {
+        "amenityId": "AMNT-BED",
+        "amenityOrder" : 12,
+        "name": "Bed",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/icon12.png"
+    },
+    {
+        "amenityId": "AMNT-LFT",
+        "amenityOrder" : 13,
+        "name": "Lift",
+        "status": "Unavailable",
+        "type": "Free",
+        "price": 0,
+        "amenityIconPath": "assets/amenities/lift.png"
+    }
+]

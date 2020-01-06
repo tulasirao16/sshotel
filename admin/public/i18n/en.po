@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals = 3; plural = (n % 10 === 1 && n % 100 !== 11 ? 0 : "
+"n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? 1 : 2);\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/App.js:42
+msgid "Welcome to Multi language app"
+msgstr "Welcome to Multi language app"
+
+#: src/Language.js:85
+msgid "lanLoginLoginHead"
+msgstr "Login"
+
+#: src/Language.js:101
+msgid "Submit"
+msgstr "Submit"
+
+#: src/components/serviceproviders/Properties/SPPropertiesListComponent.jsx
+msgid "lanSPTitlePropertiesList"
+msgstr "Property List"
+
+msgid "lanCommonLabelSearch"
+msgstr "Search"
+
+msgid "lanSPLabelSingleBeds"
+msgstr "Single Beds"
+
+msgid "lanSPLabelDoubleBeds"
+msgstr "Double Beds"
+
+msgid "lanSPLabelShowerAndBathtub"
+msgstr "Shower and Bathtub"
+
+msgid "lanSPLabelNoProperties",
+msgstr "No Property Listed"
+
+msgid "lanSPLabelActiveRooms",
+msgstr "Active Rooms"
+
+msgid "lanSPLabelOnHoldRooms",
+msgstr "OnHold Rooms"
+
+msgid "lanCommonLabelNoMatchesFound",
+msgstr "No Matches found"
+
+
+#: src/components/serviceprovider/BookingsHistory/SPBookingsListComponent.jsx
+msgid "lanCommonTitleBookings",
+msgstr "Bookings"
+
+msgid "lanSPBookingsButtonAll",
+msgstr "All"
+
+msgid "lanSPBookingsButtonUpcoming",
+msgstr "Upcoming"
+
+msgid "lanSPBookingsButtonPast",
+msgstr "Past"
+
+msgid "lanCommonLabelBookedBy",
+msgstr "Booked By"
+
+msgid "lanCommonLabelMobileNumber",
+msgstr "Mobile No"
+
+msgid "lanCommonLabelEmail",
+msgstr "Email"
+
+msgid "lanCommonLabelCheckIn",
+msgstr "Check-In"
+
+msgid "lanCommonLabelCheckOut",
+msgstr "Check-Out"
+
+msgid "lanCommonLabelNumberOfRooms",
+msgstr "No Of Rooms"
+
+msgid "lanCommonLabelPropertyTitle",
+msgstr "property Title"
+
+msgid "lanCommonLabelArea",
+msgstr "Area"
+
+msgid "lanCommonLabelBookingCode",
+msgstr "Booking Code"
+
+msgid "lanCommonLabelAmount",
+msgstr "Grand Total"
+
+msgid "lanCommonLabelStatus",
+msgstr "Booking Status",
+
+msgid "lanCommonButtonCreateBooking",
+msgstr "Create Booking",
+
+msgid "lanCommonButtonTooltipViewBooking",
+msgstr "View Booking"
+
+msgid "lanCommonButtonTooltipEditBooking",
+msgstr "Edit Booking"
+
+msgid "lanCommonButtonTooltipCancelBooking",
+msgstr "Cancel Booking"
+
+msgid "lanCommonButtonTooltipReviews",
+msgstr "Reviews"
+
+msgid "lanCommonButtonTooltipBookAgain",
+msgstr "Book Again"
+
+#: src/components/serviceprovider/ReviewRatings/ReviewRatingList.jsx
+msgid "lanSPTitleReviewsRatings"
+msgstr "Reviews & Ratings"
+
+msgid "lanCommonLabelProperty",
+msgstr "Property"
+
+msgid "lanSPLabelRating",
+msgstr "Rating"
+
+msgid "lanSPLabelReviewHeader",
+msgstr "Review Header"
+
+msgid "lanSPLabelReviewComment",
+msgstr "Review Comment"

@@ -1,0 +1,43 @@
+ul.dropdown-menu li {
+  /* background: #248b9b; */
+  /* margin: 2px; */
+  justify-content: center;
+  display: block;
+}
+.both-list-view.Guests-drop .dropdown-menu {
+    min-width: 0rem;
+    justify-content: center;
+    padding-left:35px;
+    padding-right: 35px;
+    text-align: 'center';
+    /* padding-left: 30px; */
+}
+.both-list-view.Guests-drop  .btn-default {
+    color: #248b9b;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+}
+.both-list-view.Guests-dr .btn-default:not(:disabled):not(.disabled).active, 
+.both-list-view.Guests-dr .btn-default:not(:disabled):not(.disabled):active, 
+.both-list-view.Guests-dr .dropdown.show .btn-default.dropdown-toggle,
+.both-list-view.Guests-drop .btn-default:not(:disabled):not(.disabled):active, {
+    color: #025d8c;
+    border-color: #ffffff !important;
+    background-color: #ffffff !important;
+}
+.both-list-view.Guests-dr .btn-default:not(:disabled):not(.disabled).active, 
+.both-list-view.Guests-dr .btn-default:not(:disabled):not(.disabled):active, 
+.both-list-view.Guests-dr .dropdown.show .btn-default.dropdown-toggle,
+.both-list-view.Guests-drop .btn-default:not(:disabled):not(.disabled):active,
+ {
+    color: #025d8c;
+    border-color: #ffffff !important;
+    background-color: #ffffff !important;
+}
+.btn-default:not(:disabled):not(.disabled):active,
+.show>.btn-default.dropdown-toggle {
+    background-color: #ffffff !important;
+    color: #025d8c !important;
+    border-color: #ffffff !important;
+}

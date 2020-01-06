@@ -1,0 +1,3 @@
+ngsbnb_users:
+
+user password: Welcome@123

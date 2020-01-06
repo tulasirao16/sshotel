@@ -1,0 +1,38 @@
+.ReactModal__Overlay {
+    position: fixed !important;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: 99999;
+    background: rgba(0, 0, 0, 0.6) !important;
+}
+.room-modal p.modal-title {
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    color: #01a4a2;
+    
+}
+.room-category .card-title {
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    color: #333333;
+}
+
+/* ======================================================== */
+.radio-btn {
+    width: 25px;
+    height:25px;
+}
+.section-1 {
+    padding:10px;
+}
+.section-1 .form-group {
+    margin-bottom: 0.3rem;
+}
+.btn-default {
+    /* color: #fff; */
+    border-color: #ffffff;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+}

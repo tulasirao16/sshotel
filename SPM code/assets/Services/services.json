@@ -1,0 +1,50 @@
+[
+    {
+        "serviceOrder": 1,
+        "serviceId": "SRVC-PD",
+        "serviceName": "Pickup And Drop",
+        "serviceStatus": "Unavailable",
+        "serviceType": "Free",
+        "serviceCharge": 0,
+        "serviceIconPath": "assets/services/car.png"
+    },
+    {
+        "serviceOrder": 2,
+        "serviceId": "SRVC-SPA",
+        "serviceName": "Spa",
+        "serviceStatus": "Unavailable",
+        "serviceType": "Free",
+        "serviceCharge": 0,
+        "serviceIconPath": "assets/services/spa.png"
+    },
+    {
+        "serviceOrder": 3,
+        "serviceId": "SRVC-CE",
+        "serviceName": "Creche",
+        "serviceStatus": "Unavailable",
+        "serviceType": "Free",
+        "serviceCharge": 0,
+        "serviceIconPath": "assets/services/babycare.png"
+    },
+    {
+        "serviceOrder": 4,
+        "serviceId": "SRVC-TG",
+        "serviceName": "Tourist Guide",
+        "serviceStatus": "Unavailable",
+        "serviceType": "Free",
+        "serviceCharge": 0,
+        "serviceIconPath": "assets/services/touristguide.png"
+    },
+    {
+        "serviceOrder": 5,
+        "serviceId": "SRVC-DC",
+        "serviceName": "Doctor on call",
+        "serviceStatus": "Unavailable",
+        "serviceType": "Free",
+        "serviceCharge": 0,
+        "serviceIconPath": "assets/services/doctoroncall.png"
+    }
+  
+   
+
+]

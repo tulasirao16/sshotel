@@ -1,0 +1,83 @@
+.input-error-icon {
+    position: absolute;
+    top: 34px;
+    right: -20px;
+}
+.resetPassword .input-error-icon {
+    position: absolute;
+    top: 34px;
+    right: -19px;
+}
+.forget-pawd {
+    font-size: 12px;
+    color: #025d8c;
+    font-weight: 500;
+}
+a {
+    cursor: pointer;
+}
+.mandatory {
+    color: red;
+}
+.login-card {
+	background-image: url(../../../../../assets/login/l6.jpg);
+    background-position: left;
+    background-size: contain;
+    /* background-size: 68%; */
+    background-repeat: no-repeat;
+}
+.signup-card {
+	background-image: url(https://image.freepik.com/free-photo/close-up-female-s-hand-holding-wooden-house-model-keys-against-blurred-building-backdrop_23-2148038696.jpg);
+    background-position: left;
+    background-size: 78%;
+    background-repeat: no-repeat;
+}
+.card-login-form{
+	border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.card-login-form .btn-inner--text {
+	font-size: .825rem;
+}
+.eu-content {
+    margin-top: -15rem!important;
+}
+.eu-login-container .eu-header .navbar-horizontal.navbar-transparent {
+    padding: 10px;
+}
+.login-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 15px ;
+    right: -15px;
+    background: rgba(0,0,0,.5);
+}
+.btn-outline-primary {
+	color: #3b5999;
+	border-color: #3b5999;
+	background-color: transparent;
+	background-image: none
+}
+
+.btn-outline-primary:hover {
+	color: #fff;
+	border-color: #3b5999;
+	background-color: #3b5999
+}
+
+.btn-outline-primary.focus,
+.btn-outline-primary:focus {
+	box-shadow: 0 0 0 0 rgba(94, 114, 228, .5)
+}
+
+.btn-outline-primary.disabled,
+.btn-outline-primary:disabled {
+	color: #3b5999;
+	background-color: transparent
+}
+.pswdShowIconView {
+    position: relative;
+    left: 90%;
+    bottom: 29px;
+}

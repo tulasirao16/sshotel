@@ -1,0 +1,96 @@
+@media only screen and (max-width: 375px) {
+    .hidden-nav {
+        display: none;
+    }
+    .card.mx-5.bg-self {
+        margin-left: 0rem!important;
+        margin: auto;
+    }
+    .landing-search-button {
+        padding: 20px 126px;
+        background-color: rgb(2, 93, 140);
+        padding: 20px 126px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 4px;
+    }
+    .overlay-search-bg {
+        position: fixed;
+        bottom: 17%;
+        left: 25px;
+        z-index: 99;
+    }
+    .search-bg-div {
+        width: 317px;
+        height: 270px;
+        background: #ffffff;
+        border-radius: 4px;
+        border: 1px solid #ddddde;
+        box-shadow: 0 8px 15px 0 rgba(0,0,0,.1);
+        overflow: scroll;
+    }
+    .overlay-guest-dropdown {
+        position: absolute;
+        bottom: -20px;
+        right: 40px;
+        z-index: 99;
+    }
+    .social {
+        display: none;
+    }
+    section#oe_tabs div ul li {
+        display: inline-block;
+        height: 52px;
+        width: 100% !important;
+    }
+    section#oe_tabs div ul li a {
+        color: #01a3a2;
+    }
+    section#oe_tabs div ul li:hover {
+        background-color: transparent;
+        cursor: pointer;
+    }
+    section.most_landing {
+        margin-top: 16rem;
+    }
+    .most-popular #myCarousel .carousel-item {
+        height: 100% !important;
+    }
+    .most-popular .img-div img {
+        width: auto;
+        min-height: 350px;
+    }
+}
+@media only screen and (min-width:375px) and (max-width: 414px) {
+    .hidden-nav {
+        display: none;
+    }
+    .serch-big-btn {
+        background: #025d8c;
+        text-align: center;
+    }
+    section.most_landing {
+        margin-top: 16rem;
+    }
+    .most-popular #myCarousel .carousel-item {
+        height: 100% !important;
+    }
+    .most-popular .img-div img {
+        width: auto;
+        min-height: 350px;
+    }
+    section#oe_tabs div ul li {
+        display: inline-block;
+        height: 52px;
+        width: 100% !important;
+    }
+    section#oe_tabs div ul li a {
+        color: #01a3a2;
+    }
+    section#oe_tabs div ul li:hover {
+        background-color: transparent;
+        cursor: pointer;
+    }
+    .social {
+        display: none;
+    }
+}
